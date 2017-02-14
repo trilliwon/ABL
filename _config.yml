@@ -1,7 +1,5 @@
-theme: jekyll-theme-architect
-
-title: 'trilliwon'
-description: this site is just for me.
-
+title: Architect theme
+description: Architect is a theme for GitHub Pages.
 show_downloads: true
-#google_analytics: [Your Google Analytics tracking ID]
+google_analytics:
+theme: 
