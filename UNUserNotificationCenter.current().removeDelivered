@@ -1,0 +1,17 @@
+UNUserNotificationCenter.current().removeDeliveredNotifications(withIdentifiers: <#T##[String]#>)
+UNUserNotificationCenter.current().removeAllDeliveredNotifications()
+
+
+	func scheduleNotifications(state: BodyState) {
+		print(#function)
+		guard let uuid = UserDefaults.standard.string(forKey: "Autonotification") else { return }
+		guard let currentUser = currentUser else { return }
+		if uuid != currentUser.uuid { return }
+		let isOn = UserDefaults.standard.bool(forKey: uuid)
+		if !isOn { return }
+
+
+		let trigger = UNTimeIntervalNotificationTrigger(timeInterval: timeInterval, repeats: true)
+
+		LocalNotification.show(body: I18N.measurementTime, trigger: trigger)
+	}
