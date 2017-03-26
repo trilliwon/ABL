@@ -7,4 +7,4 @@ categories: jekyll update
 
 ## Code
 
-My stories are already [here](https://medium.com/@trilliwon).
+My stories are [here](https://medium.com/@trilliwon).
