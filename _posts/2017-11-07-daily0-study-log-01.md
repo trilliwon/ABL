@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "First day of study log"
-date:   2017-11-08 23:00:00 +0900
+date:   2017-11-07 23:00:00 +0900
 categories: MIT
 ---
 
