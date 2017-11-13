@@ -2,8 +2,8 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          trilliwon
-paginate:       5
+title:          TRILLIWON
+paginate:       30
 baseurl:        "/blog"
 url:            "https://trilliwon.github.io"
 
@@ -20,9 +20,15 @@ author:
   name:         trilliwon
   url:          http://www.trilliwon.com
   email:        trilliwon@gmail.com
+  description: > # this means to ignore newlines until "baseurl:"
+    I will write my stories here.
+
+twitter_username: trilliwon
+github_username:  trilliwon
+
 
 # Custom vars
-version:        3.4.1
+version:        1.0.0
 github:
   repo:         https://github.com/trilliwon/blog
 
