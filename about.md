@@ -1,9 +1,11 @@
 ---
-layout: page
-title: About
+layout: post
+title: "About"
+author: "trilliwon"
 permalink: /about/
 ---
 
-Hi, I am Won. I will write my stories here.
-My stories will be what I learned.
-I'will also share my ideas.
+Hello, I am Won, Software Engineer from Seoul.
+
+
+email: [trilliwon@gmail.com](mailto:trilliwon@gmail.com)
