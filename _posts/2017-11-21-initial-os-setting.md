@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Initial OS Setting"
-date:   2017-11-14 11:00:00 +0900
+date:   2017-11-21 11:00:00 +0900
 categories: howto
 ---
 
