@@ -61,6 +61,8 @@ vim +PluginInstall +qall # command line
 - [Dropbox](https://www.dropbox.com)
  - `https://www.dropbox.com/download?os=mac`
 
+---
+
 # Initial Ubuntu Setting
 
 ## All in one script
@@ -82,6 +84,4 @@ git config --global credential.helper 'store --file ~/.git-credentials'
 
 - `sudo apt-get install cscope`
 
-## TODO
-- [-] cscope install
-- [-] need to write a script to automate
+## [Mariadb Installation Guide](https://downloads.mariadb.org/mariadb/repositories/#mirror=kaist&distro=Ubuntu&distro_release=xenial--ubuntu_xenial&version=10.2)
