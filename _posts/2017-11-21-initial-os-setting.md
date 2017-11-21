@@ -83,5 +83,3 @@ git config --global credential.helper 'store --file ~/.git-credentials'
 ## cscope Installation
 
 - `sudo apt-get install cscope`
-
-## [Mariadb Installation Guide](https://downloads.mariadb.org/mariadb/repositories/#mirror=kaist&distro=Ubuntu&distro_release=xenial--ubuntu_xenial&version=10.2)
