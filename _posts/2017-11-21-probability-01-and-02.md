@@ -8,5 +8,5 @@ categories: math
 
 Today I studied probability and summarized it in Korean.
 
-[Probability-01](https://github.com/trilliwon/blog/blob/master/_pdf/Probability-01.pdf)
-[Probability-02](https://github.com/trilliwon/blog/blob/master/_pdf/Probability-02.pdf)
+- [Probability-01](https://github.com/trilliwon/blog/blob/master/_pdf/Probability-01.pdf)
+- [Probability-02](https://github.com/trilliwon/blog/blob/master/_pdf/Probability-02.pdf)
