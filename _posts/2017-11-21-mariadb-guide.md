@@ -22,3 +22,5 @@ categories: mariadb
 ## Create a user account
 
 - `'newusername'@'localhost' IDENTIFIED BY 'userpassword';`
+
+## [mariadb.com](https://mariadb.com/kb/en/library/training-tutorials/)
