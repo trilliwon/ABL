@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Semantic analysis 01"
-date:   2017-11-29 7:00:00 +0900
+date:   2017-11-22 7:00:00 +0900
 categories: compiler
 ---
 [Stanford Compiler Course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014)
