@@ -8,11 +8,8 @@ categories: db
 # Transaction
 
 - Series of actions carried out by the user or application, which accesses or changes the contents of a database
-
 - A unit of work performed within a DBMS against a DB
-
 - Transforms a database from one consistent state to another, although consistency may be violated during transaction
-
 - Each transaction must succeed or fail as a complete unit; it can never be only partially complete.
 
 ## Properties of Transactions
