@@ -86,10 +86,27 @@ categories: db
 - A schedule s is serializable iff there is no cycle in the precedence graph
 - Node : transaction
 
-## Concurrency Control Techniques
+# Concurrency Control Techniques
 
 - Control concurrent transactions executed in a serializable schedule
 - Typical techniques
   - Two-phase locking protocol
   - Timestamp ordering technique
   - Optimistic technique
+
+---
+
+# Locking
+- Most widely used approach in practical systems to ensure serializability
+- A transaction must claim a read(shared) or write(exclusive) lock on a data item before read or write
+  - Read lock prevents another transaction from modifying the item
+    - Reads cannot conflict, so more than one transaction can hold read locks simultaneously on the same item
+  - Write lock prevents another transaction from both reading and modifying the item
+    - Write lock gives a transaction exclusive access to that item
+
+- Lock compatibility matrix
+
+|            | READ LOCK | WRITE LOCK |
+| :--------  | :---- | :---- |
+| READ LOCK  | TRUE  | FALSE |
+| WRITE LOCK | FALSE | FALSE |
