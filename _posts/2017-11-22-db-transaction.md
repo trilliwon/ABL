@@ -42,9 +42,9 @@ categories: db
 - Prevents the interference when two or more transactions are accessing the database simultaneously and at least one is updating data
 - Although two transactions may be correct in themselves, interleaving of operations may produce an incorrect result
 - Three potential problem
-  >- Lost update problem
-  >- Uncommitted dependency problem(The dirty read problem)
-  >- Inconsistent analysis problem(The incorrect summary problem)
+  - Lost update problem
+  - Uncommitted dependency problem(The dirty read problem)
+  - Inconsistent analysis problem(The incorrect summary problem)
 
 ---
 
