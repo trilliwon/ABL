@@ -106,7 +106,9 @@ categories: db
 
 - Lock compatibility matrix
 
+---------------------------------------
 |            | READ LOCK | WRITE LOCK |
-| :--------  | :---- | :---- |
+| --------  | ---- | ---- |
 | READ LOCK  | TRUE  | FALSE |
 | WRITE LOCK | FALSE | FALSE |
+---------------------------------------
