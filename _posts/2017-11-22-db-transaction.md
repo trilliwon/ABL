@@ -50,19 +50,49 @@ categories: db
 
 ## Serializabiltity
 
->+ The objective of concurrency control is to schedule transactions in such a way as to avoid any interference
->+ Could run transactions serially, but this limits the degree of concurrency or parallelism in a system
+- The objective of concurrency control is to schedule transactions in such a way as to avoid any interference
+- Could run transactions serially, but this limits the degree of concurrency or parallelism in a system
 
 ### Schedule
->+ a sequence of reads and writes by a set of concurrent transactions
+- a sequence of reads and writes by a set of concurrent transactions
 
 ### Serial schedule
->+ a schedule where the operations of each transaction are executed consecutively without any interleaved operations from other transactions
->>+ Not guarantee that the results of all serial schedules of a given set of transactions will be identical
->>+ Every serial schedule is regarded correct
+- a schedule where the operations of each transaction are executed consecutively without any interleaved operations from other transactions
+- Not guarantee that the results of all serial schedules of a given set of transactions will be identical
+  - Every serial schedule is regarded correct
 
 ### Nonserial schedule
->+ a schedule where the operations from a set of concurrent transactions are interleaved
->+ The **objective of serializability** is to find nonserial schedules that allow transactions to execute concurrently without interfering with one another
->+ In other words, want to find nonserial schedules that are equivalent to some serial schedule
->>+ Such a schedule is called serializable
+- a schedule where the operations from a set of concurrent transactions are interleaved
+
+### Objective of serializability
+- The **objective of serializability** is to find nonserial schedules that allow transactions to execute concurrently without interfering with one another
+- In other words, want to find nonserial schedules that are equivalent to some serial schedule
+  - Such a schedule is called serializable
+
+### Equivalent
+- Intuitively, two schedules s1 and s2 are equivalent if
+  - Every read in s2 accesses the same value as the corresponding read in s1
+  - The last values written into the database for every data item should be the same for s1 and s2
+
+### Ordering of read/writes is important
+
+- If two transactions either read or write completely separate data items, they do not conflict and the order is not important
+- If two transactions only read the same data item, they do not conflict and the order is not important
+- If one transaction writes a data item and another reads or writes the same data item, the order is important
+
+### Precedence graph
+- Under the constrained write rule(a transaction updates a data item based on its old value, which have always been first read), use the precedence graph to test for serializability
+- Precedence graph
+- Draw an arc Ti -> Tj (meaning Ti must come before Tj in its equivalent serial schedule s') if
+  - Ti executes read(x) and Tj is the next transaction to execute write(x)
+  - Ti executes write(x) and Tj executes read(X) to read the value written by Ti
+- A schedule s is serializable iff there is no cycle in the precedence graph
+- Node : transaction
+
+## Concurrency Control Techniques
+
+- Control concurrent transactions executed in a serializable schedule
+- Typical techniques
+  - Two-phase locking protocol
+  - Timestamp ordering technique
+  - Optimistic technique
