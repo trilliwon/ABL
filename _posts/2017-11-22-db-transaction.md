@@ -5,7 +5,7 @@ date:   2017-11-22 13:00:00 +0900
 categories: db
 ---
 
-## Transaction
+# Transaction
 
 - Series of actions carried out by the user or application, which accesses or changes the contents of a database
 
