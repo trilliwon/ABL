@@ -45,3 +45,24 @@ categories: db
   >- Lost update problem
   >- Uncommitted dependency problem(The dirty read problem)
   >- Inconsistent analysis problem(The incorrect summary problem)
+
+---
+
+## Serializabiltity
+
+>+ The objective of concurrency control is to schedule transactions in such a way as to avoid any interference
+>+ Could run transactions serially, but this limits the degree of concurrency or parallelism in a system
+
+### Schedule
+>+ a sequence of reads and writes by a set of concurrent transactions
+
+### Serial schedule
+>+ a schedule where the operations of each transaction are executed consecutively without any interleaved operations from other transactions
+>>+ Not guarantee that the results of all serial schedules of a given set of transactions will be identical
+>>+ Every serial schedule is regarded correct
+
+### Nonserial schedule
+>+ a schedule where the operations from a set of concurrent transactions are interleaved
+>+ The **objective of serializability** is to find nonserial schedules that allow transactions to execute concurrently without interfering with one another
+>+ In other words, want to find nonserial schedules that are equivalent to some serial schedule
+>>+ Such a schedule is called serializable
