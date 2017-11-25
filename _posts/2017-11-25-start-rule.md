@@ -13,3 +13,5 @@ permalink: /smart/
 - Attainable
 - Realistic
 - Timeline
+
+[wikipedia](https://en.wikipedia.org/wiki/SMART_criteria)
