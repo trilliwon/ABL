@@ -10,8 +10,8 @@ permalink: /smart/
 
 - Specific
 - Measurable
-- Attainable
-- Realistic
-- Timeline
+- Achievable
+- Relevant
+- Time-bound
 
 [wikipedia](https://en.wikipedia.org/wiki/SMART_criteria)
