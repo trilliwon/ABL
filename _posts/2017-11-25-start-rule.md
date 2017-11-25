@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SMART criteria"
-date:   2017-11-22 13:00:00 +0900
+date:   2017-11-25 13:00:00 +0900
 categories: howto
 permalink: /smart/
 ---
@@ -12,4 +12,4 @@ permalink: /smart/
 - Measurable
 - Attainable
 - Realistic
-- Timeline 
+- Timeline
