@@ -19,6 +19,11 @@ categories: mariadb
 
 - `mysql -u root -p`
 
+## [Starting and Stopping MariaDB](https://mariadb.com/kb/en/library/starting-and-stopping-mariadb-automatically/)
+
+- `mysql.server start`
+- `mysql.server stop`
+
 ## Create a user account
 
 - `'newusername'@'localhost' IDENTIFIED BY 'userpassword';`
