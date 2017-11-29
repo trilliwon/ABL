@@ -106,3 +106,4 @@ categories: db
 
 
     ![](http://www.trilliwon.com/blog/images/Lock_compatibility_matrix.png)
+    ![placeholder](http://www.trilliwon.com/blog/images/Lock_compatibility_matrix.png/400x200 "Small example image")
