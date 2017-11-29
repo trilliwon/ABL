@@ -105,4 +105,4 @@ categories: db
     - Write lock gives a transaction exclusive access to that item
 
 
-    ![](http://www.trilliwon.com/blog/images/Lock_compatibility_matrix.png/200x200)
+    ![](http://www.trilliwon.com/blog/images/Lock_compatibility_matrix.png)
