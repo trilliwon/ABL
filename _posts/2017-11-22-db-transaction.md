@@ -106,3 +106,5 @@ categories: db
 
 
     ![](http://www.trilliwon.com/blog/images/Lock_compatibility_matrix.png)
+
+#   Two-Phase Locking Protocol (aka 2PL)
