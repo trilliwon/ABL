@@ -103,7 +103,6 @@ categories: db
     - Reads cannot conflict, so more than one transaction can hold read locks simultaneously on the same item
   - Write lock prevents another transaction from both reading and modifying the item
     - Write lock gives a transaction exclusive access to that item
-    
-    {% highlight markdown %}
-    ![placeholder](http://www.trilliwon.com/blog/images/Lock_compatibility_matrix.png/200x200 "Small example image")
-    {% endhighlight %}
+
+
+    ![](http://www.trilliwon.com/blog/images/Lock_compatibility_matrix.png/200x200)
