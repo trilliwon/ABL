@@ -17,3 +17,4 @@ http://sanghyukchun.github.io/72/
 https://github.com/rushinshah7942/Classification-and-Regression
 https://github.com/jayavardhanravi/FLD/tree/master/mypart1
 http://benalexkeen.com/k-means-clustering-in-python/
+http://adnoctum.tistory.com/442
