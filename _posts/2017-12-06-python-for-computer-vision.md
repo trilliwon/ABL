@@ -10,6 +10,9 @@ permalink: /computer_vision/
 
 
 # References
+
+```
+http://sebastianraschka.com/Articles/2014_python_lda.html
 https://en.wikipedia.org/wiki/Linear_discriminant_analysis
 https://en.wikipedia.org/wiki/Principal_component_analysis
 https://wikidocs.net/5957
@@ -18,3 +21,6 @@ https://github.com/rushinshah7942/Classification-and-Regression
 https://github.com/jayavardhanravi/FLD/tree/master/mypart1
 http://benalexkeen.com/k-means-clustering-in-python/
 http://adnoctum.tistory.com/442
+http://docs.scipy.org/doc/scipy/reference/tutorial/ndimage.html http://scipy-lectures.github.io/advanced/image_processing/ http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
+http://scikit-learn.org/stable/index.html#
+```
