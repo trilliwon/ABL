@@ -40,7 +40,7 @@ sudo apt-get install linux-tools-generic linux-tools-`uname -r`
 
 # Performance measurement
 
-1. `cd ... /mariadb/run/bin/` and `./mysqld`
+1. `cd ... /mariadb/run/bin/` and `./mysqld` or `./mysql --defaults-file=../my.cnf`
 2. ``` sudo perf record -g -p `pidof mysqld` ```
 3. `sysbench --threads=100 --rand-type=uniform --mysql-user=root --mysql-socket=mariadb.sock --db-driver=mysql oltp_read_only.lua prepare`
 4. `sysbench --threads=100 --rand-type=uniform --mysql-user=root --mysql-socket=mariadb.sock --db-driver=mysql oltp_read_only.lua run`
