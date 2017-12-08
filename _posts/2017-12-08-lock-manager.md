@@ -45,7 +45,7 @@ sudo apt-get install linux-tools-generic linux-tools-`uname -r`
 3. `sysbench --threads=100 --rand-type=uniform --mysql-user=root --mysql-socket=mariadb.sock --db-driver=mysql oltp_read_only.lua prepare`
 4. `sysbench --threads=100 --rand-type=uniform --mysql-user=root --mysql-socket=mariadb.sock --db-driver=mysql oltp_read_only.lua run`
 5. `cd ... /mariadb/run/bin/` and `./mysqladmin -uroot shutdown`
-6. `sudo perf report -f -g graph`
+6. `sudo perf report -g graph --no-children`
 
 ---
 
