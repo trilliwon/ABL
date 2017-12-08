@@ -55,4 +55,4 @@ sudo apt-get install linux-tools-generic linux-tools-`uname -r`
 - [1](https://github.com/akopytov/sysbench)
 - [2](https://github.com/akopytov/sysbench/issues/58)
 - [3](https://mariadb.org/using-lua-enabled-sysbench/)
-- [1](https://mariadb.com/kb/en/library/sysbench-benchmark-setup/)
+- [4](https://mariadb.com/kb/en/library/sysbench-benchmark-setup/)
