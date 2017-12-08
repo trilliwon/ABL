@@ -26,7 +26,7 @@ permalink: /lock_manager/
 - lua script : `/usr/share/sysbench/oltp_read_only.lua`
 - create database that sysbench will use `sbtest` and grant privileges to it
 
-```SQL
+```
 CREATE DATABASE sbtest;
 CREATE USER sbtest@localhost;
 GRANT ALL PRIVILEGES ON sbtest.* TO sbtest@localhost
@@ -34,7 +34,7 @@ GRANT ALL PRIVILEGES ON sbtest.* TO sbtest@localhost
 
 - perf install
 
-```shell
+```
 sudo apt-get install linux-tools-generic linux-tools-`uname -r`
 ```
 
