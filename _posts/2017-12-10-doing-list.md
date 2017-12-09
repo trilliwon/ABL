@@ -11,7 +11,7 @@ permalink: /doinglist/
 > DOINGLIST contains what I am studying these days.
 
 # [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
-
+> 
 ## 1A-L1 Introduction [DONE]
 ## 2A-L1 Images as functions [DONING]
 ## 2A-L2 Filtering [DONE]
