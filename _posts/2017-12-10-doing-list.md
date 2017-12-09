@@ -16,16 +16,16 @@ permalink: /doinglist/
 >## 2A-L1 Images as functions [DONING]
 >## 2A-L2 Filtering [DONE]
 >## 2A-L3 Linearity and convolution [DOING]
-## 2A-L4 Filters as templates [TODO]
-## 2A-L5 Edge detection: Gradients [TODO]
-## 2A-L6 Edge detection: 2D operators [TODO]
-## 2B-L1 Hough transform: Lines [TODO]
-## 2B-L2 Hough transform: Circles [TODO]
-## 2B-L3 Generalized Hough transform [TODO]
-## 2C-L1 Fourier transform [TODO]
-## 2C-L2 Convolution in frequency domain [TODO]
-## 2C-L3 Aliasing [TODO]
-## ...
+>## 2A-L4 Filters as templates [TODO]
+>## 2A-L5 Edge detection: Gradients [TODO]
+>## 2A-L6 Edge detection: 2D operators [TODO]
+>## 2B-L1 Hough transform: Lines [TODO]
+>## 2B-L2 Hough transform: Circles [TODO]
+>## 2B-L3 Generalized Hough transform [TODO]
+>## 2C-L1 Fourier transform [TODO]
+>## 2C-L2 Convolution in frequency domain [TODO]
+>## 2C-L3 Aliasing [TODO]
+>## ...
 
 ---
 
