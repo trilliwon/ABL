@@ -50,19 +50,19 @@ permalink: /doinglist/
 
 # [Engineering: CS1 - SELF PACED Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014)
 
-## Week 1: Introduction & the Cool Programming Language [DONE]
-## Week 2: Lexical Analysis & Finite Automata [TODO]
-## Week 3: Parsing & Top-Down Parsing [DONE]
-## Week 4: Bottom-Up Parsing I & II [DONE]
-## Midterm [TODO]
-## Week 5: Semantic Analysis and Type Checking [TODO]
-## Week 6: Cool Type Checking & Runtime Organization [TODO]
-## Week 7: Code Generation & Operational Semantics [TODO]
-## Week 8: Local Optimization & Global Optimization [TODO]
-## Week 9: Register Allocation & Garbage Collection [TODO]
-## Week 10: Java > 18-03: Java Exceptions [TODO]
-## Final [TODO]
-## Course Completion [TODO]
+>## Week 1: Introduction & the Cool Programming Language [DONE]
+>## Week 2: Lexical Analysis & Finite Automata [TODO]
+>## Week 3: Parsing & Top-Down Parsing [DONE]
+>## Week 4: Bottom-Up Parsing I & II [DONE]
+>## Midterm [TODO]
+>## Week 5: Semantic Analysis and Type Checking [TODO]
+>## Week 6: Cool Type Checking & Runtime Organization [TODO]
+>## Week 7: Code Generation & Operational Semantics [TODO]
+>## Week 8: Local Optimization & Global Optimization [TODO]
+>## Week 9: Register Allocation & Garbage Collection [TODO]
+>## Week 10: Java > 18-03: Java Exceptions [TODO]
+>## Final [TODO]
+>## Course Completion [TODO]
 
 ---
 
