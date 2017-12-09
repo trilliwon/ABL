@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Computer vision"
+title:  "Computer Vision"
 date:   2017-12-05 20:00:00 +0900
 categories: computer_vision
 permalink: /computer_vision/
