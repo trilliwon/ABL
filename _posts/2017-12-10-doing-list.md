@@ -33,18 +33,18 @@ permalink: /doinglist/
 
 >## Unit 01
 >>### [INTRODUCTION TO 6.00](http://www.trilliwon.com/blog/mit600cs_unit1_01/) [DOING]
->### [CORE ELEMENTS OF A PROGRAM](http://www.trilliwon.com/blog/mit600cs_unit1_02/) [DONE]
->### PROBLEM SOLVING [DONE]
->### MACHINE INTERPRETATION OF A PROGRAM [DONING]
->### OBJECTS IN PYTHON [TODO]
->### RECURSION [TODO]
->### DEBUGGING [TODO]
->### EFFICIENCY AND ORDER OF GROWTH [TODO]
->### MEMORY AND SEARCH METHODS [TODO]
->### QUIZ 1 [TODO]
+>>### [CORE ELEMENTS OF A PROGRAM](http://www.trilliwon.com/blog/mit600cs_unit1_02/) [DONE]
+>>### PROBLEM SOLVING [DONE]
+>>### MACHINE INTERPRETATION OF A PROGRAM [DONING]
+>>### OBJECTS IN PYTHON [TODO]
+>>### RECURSION [TODO]
+>>### DEBUGGING [TODO]
+>>### EFFICIENCY AND ORDER OF GROWTH [TODO]
+>>### MEMORY AND SEARCH METHODS [TODO]
+>>### QUIZ 1 [TODO]
 
-## Unit 02 [TODO]
-## Unit 03 [TODO]
+>## Unit 02 [TODO]
+>## Unit 03 [TODO]
 
 ---
 
