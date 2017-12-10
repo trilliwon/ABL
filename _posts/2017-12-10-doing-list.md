@@ -65,6 +65,3 @@ permalink: /doinglist/
 >## Course Completion [TODO]
 
 ---
-
-# [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/)
-## [TODO]
