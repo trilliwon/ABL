@@ -16,7 +16,7 @@ permalink: /doinglist/
 >## 2A-L1 Images as functions [DONING]
 >## 2A-L2 Filtering [DONE]
 >## 2A-L3 Linearity and convolution [DONE]
->## 2A-L4 Filters as templates [TODO]
+>## 2A-L4 Filters as templates [DONE]
 >## 2A-L5 Edge detection: Gradients [TODO]
 >## 2A-L6 Edge detection: 2D operators [TODO]
 >## 2B-L1 Hough transform: Lines [TODO]
