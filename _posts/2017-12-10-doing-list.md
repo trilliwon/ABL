@@ -15,7 +15,7 @@ permalink: /doinglist/
 >## 1A-L1 Introduction [DONE]
 >## 2A-L1 Images as functions [DONING]
 >## 2A-L2 Filtering [DONE]
->## 2A-L3 Linearity and convolution [DOING]
+>## 2A-L3 Linearity and convolution [DONE]
 >## 2A-L4 Filters as templates [TODO]
 >## 2A-L5 Edge detection: Gradients [TODO]
 >## 2A-L6 Edge detection: 2D operators [TODO]
@@ -32,10 +32,10 @@ permalink: /doinglist/
 # [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 >## Unit 01
->>### [INTRODUCTION TO 6.00](http://www.trilliwon.com/blog/mit600cs_unit1_01/) [DOING]
+>>### [INTRODUCTION TO 6.00](http://www.trilliwon.com/blog/mit600cs_unit1_01/) [DONE]
 >>### [CORE ELEMENTS OF A PROGRAM](http://www.trilliwon.com/blog/mit600cs_unit1_02/) [DONE]
 >>### PROBLEM SOLVING [DONE]
->>### MACHINE INTERPRETATION OF A PROGRAM [DONING]
+>>### MACHINE INTERPRETATION OF A PROGRAM [TODO]
 >>### OBJECTS IN PYTHON [TODO]
 >>### RECURSION [TODO]
 >>### DEBUGGING [TODO]

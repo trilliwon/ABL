@@ -55,6 +55,10 @@ Acquiring, processing, analyzing, and understanding visual data in order to prod
 
 - Filtering is a technique for modifying or enhancing an image. For example, you can filter an image to emphasize certain features or remove other features. Image processing operations implemented with filtering include smoothing, sharpening, and edge enhancement.
 
+- Application of Filtering
+  - Enhance an image, e.g., denoise, resize.
+  - Extract information, e.g., texture, edges.
+  - Detect patterns, e.g., template matching.
 
 # Linear Filtering
 
@@ -63,6 +67,14 @@ Acquiring, processing, analyzing, and understanding visual data in order to prod
   - The output pixels value is determined as a weighted sum of input pixel values
   - Filter coefficients
 - Convolution Filtering
+- Symmetric kernel has same results of correlation and convolution filtering.
+
+# Separable Linear Filtering
+- The process of performing a convolution requires K2 operations per pixel, where K is the size (width or height) of the convolution kernel.
+- In many cases, this operation can be speed up by first performing a 1D horizontal convolution followed by a 1D vertical convolution, requiring 2K operations.
+- If this is possible, then the convolution kernel is called separable.
+  - **K = vh<sup>T</sup>**
+
 
 ---
 
