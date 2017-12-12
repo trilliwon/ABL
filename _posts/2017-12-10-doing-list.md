@@ -13,7 +13,7 @@ permalink: /doinglist/
 # [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
 >## 1A-L1 Introduction [DONE]
->## 2A-L1 Images as functions [DONING]
+>## 2A-L1 Images as functions [DONE]
 >## 2A-L2 Filtering [DONE]
 >## 2A-L3 Linearity and convolution [DONE]
 >## 2A-L4 Filters as templates [DONE]
@@ -25,6 +25,7 @@ permalink: /doinglist/
 >## 2C-L1 Fourier transform [TODO]
 >## 2C-L2 Convolution in frequency domain [TODO]
 >## 2C-L3 Aliasing [TODO]
+>## 9B-L1	Binary morphology	 [DONE]
 >## ...
 
 ---
