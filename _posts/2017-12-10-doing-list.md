@@ -12,20 +12,28 @@ permalink: /doinglist/
 
 # [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
 
+>## 9B-L1	Binary morphology	 [DONE]
 >## 1A-L1 Introduction [DONE]
 >## 2A-L1 Images as functions [DONE]
 >## 2A-L2 Filtering [DONE]
 >## 2A-L3 Linearity and convolution [DONE]
 >## 2A-L4 Filters as templates [DONE]
->## 2A-L5 Edge detection: Gradients [TODO]
->## 2A-L6 Edge detection: 2D operators [TODO]
->## 2B-L1 Hough transform: Lines [TODO]
->## 2B-L2 Hough transform: Circles [TODO]
->## 2B-L3 Generalized Hough transform [TODO]
+>## 2A-L5 Edge detection: Gradients [DONE]
+>## 2A-L6 Edge detection: 2D operators [DONE]
+>## 2B-L1 Hough transform: Lines [DONE]
+>## 2B-L2 Hough transform: Circles [DONE]
+>## 2B-L3 Generalized Hough transform [DONE]
+---
 >## 2C-L1 Fourier transform [TODO]
 >## 2C-L2 Convolution in frequency domain [TODO]
 >## 2C-L3 Aliasing [TODO]
->## 9B-L1	Binary morphology	 [DONE]
+---
+>## 3A-L1 Cameras and images [DONE]
+>## 3A-L1 Cameras and images [DONE]
+>## 3A-L2 Perspective imaging [TODO]
+
+
+
 >## ...
 
 ---
