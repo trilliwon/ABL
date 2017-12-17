@@ -105,7 +105,7 @@ unlock() {
    - # Linearizable<sup>TM</sup>
 
 # Progress Conditions
-- ## Deadlock-free: some thread trying to acquire the lock eventually succeeds.
-- ## Starvation-free: every thread trying to acquire the lock eventually succeeds.
-- ## Lock-free: some thread calling a method eventually returns.
-- ## Wait-free: every thread calling a method eventually returns.
+- ## Deadlock-free: some thread trying to acquire the lock eventually succeeds. (Blocking)
+- ## Starvation-free: every thread trying to acquire the lock eventually succeeds. (Blocking)
+- ## Lock-free: some thread calling a method eventually returns. (Non-Blocking)
+- ## Wait-free: every thread calling a method eventually returns. (Non-Blocking)
