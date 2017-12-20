@@ -9,3 +9,11 @@
 >## [algorithms-npcomplete](https://www.coursera.org/learn/algorithms-npcomplete)
 >## [logic-introduction](https://www.coursera.org/learn/logic-introduction)
 >## [mathematical-thinking](https://www.coursera.org/learn/mathematical-thinking)
+
+# Udacity
+
+>## [Introduction to Computer Vision](https://classroom.udacity.com/courses/ud810)
+>## [Eigenvectors and Eigenvalues](https://classroom.udacity.com/courses/ud104)
+>## [Computational Photography](https://classroom.udacity.com/courses/ud955)
+
+# 
