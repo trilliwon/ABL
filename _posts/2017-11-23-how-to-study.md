@@ -2,7 +2,7 @@
 layout: post
 title:  "How to study"
 date:   2017-11-23 20:00:00 +0900
-category: Study
+tag: Study
 ---
 
 How to study

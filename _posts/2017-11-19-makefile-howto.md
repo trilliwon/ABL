@@ -2,7 +2,7 @@
 layout: post
 title:  "Makefile study"
 date:   2017-11-19 15:50:00 +0900
-category: gpp
+tag: gpp
 ---
 
 

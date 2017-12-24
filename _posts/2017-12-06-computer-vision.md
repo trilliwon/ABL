@@ -2,7 +2,7 @@
 layout: post
 title:  "Computer Vision"
 date:   2017-12-05 20:00:00 +0900
-category: Computer Vision
+tag: Computer Vision
 ---
 
 # What is Computer Vision?

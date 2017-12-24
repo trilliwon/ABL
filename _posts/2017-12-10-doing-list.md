@@ -2,7 +2,7 @@
 layout: post
 title:  "DOINGLIST"
 date:   2018-12-31 24:00:00 +0900
-category: Doing List
+tag: Doing List
 ---
 
 # DOINGLIST

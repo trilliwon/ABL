@@ -2,7 +2,7 @@
 layout: post
 title:  "# MATH Learning"
 date:   2017-11-23 15:50:00 +0900
-category: Mathematics
+tag: Mathematics
 ---
 
 # MATH Learning

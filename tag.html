@@ -1,0 +1,52 @@
+---
+layout: default
+title: tag
+---
+
+{% assign rawtags = "" %}
+{% for post in site.posts %}
+	{% assign ttags = post.tags | join:'|' | append:'|' %}
+	{% assign rawtags = rawtags | append:ttags %}
+{% endfor %}
+{% assign rawtags = rawtags | split:'|' | sort %}
+
+
+{% assign tags = "" %}
+{% for tag in rawtags %}
+	{% if tag != "" %}
+		{% if tags == "" %}
+			{% assign tags = tag | split:'|' %}
+		{% endif %}
+		{% unless tags contains tag %}
+			{% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
+		{% endunless %}
+	{% endif %}
+{% endfor %}
+
+<br>
+<div class="tag">
+	{% for tag in tags %}
+		<a href="#{{ tag | slugify }}" class="fa fa-tag"> {{ tag }}</a>&nbsp;&nbsp;
+	{% endfor %}
+</div>
+<br><br>
+<div class="catalogue">
+{% for tag in tags %}
+<h2 id="{{ tag | slugify }}" class="tag-title" >{{ tag }}</h2>
+<ul>
+	{% for post in site.posts %}
+	{% if post.tags contains tag %}
+	<div class="catalogue">
+		<time datetime="{{ post.date }}"> {{ post.date | date: "%B %d, %Y" }}</time>
+		<br>
+		<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-title">{{ post.title }}
+		<br>
+		<div class="catalogue-line"></div>
+		</a>
+	</div>
+	<br><br>
+	{% endif %}
+	{% endfor %}
+</ul>
+{% endfor %}
+</div>

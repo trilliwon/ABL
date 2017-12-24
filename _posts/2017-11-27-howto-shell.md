@@ -2,7 +2,7 @@
 layout: post
 title:  "Shell"
 date:   2017-11-27 13:00:00 +0900
-category: Shell
+tag: Shell
 ---
 
 
