@@ -1,5 +1,4 @@
-$fa-font-path: "fonts/font-awesome/";
-@import 'font-awesome';
+@import "vendor/font-awesome/font-awesome";
 
 * {
   @include box-sizing;

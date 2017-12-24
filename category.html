@@ -27,7 +27,7 @@ title: category
 
 <div class="catalogue">
 	{% for category in categories %}
-		<a href="#{{ category | slugify }}" class="fa fa-tags"> {{ category }} </a>&nbsp;&nbsp;
+		<a href="#{{ category | slugify }}" class="fa fa-tag"> #{{ category }} </a>&nbsp;&nbsp;
 	{% endfor %}
 </div>
 

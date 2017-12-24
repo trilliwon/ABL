@@ -3,7 +3,7 @@ permalink:      /:year-:month-:day/:title
 
 # Setup
 title:          TRILLIWON
-paginate:       30
+paginate:       10
 baseurl:        "/blog"
 url:            "https://trilliwon.github.io"
 
@@ -45,4 +45,3 @@ github:
 # Gems
 gems:
   - jekyll-paginate
-  - jekyll-font-awesome-sass
