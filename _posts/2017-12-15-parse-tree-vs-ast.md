@@ -2,9 +2,7 @@
 layout: post
 title:  "Parse Tree VS Abstract Syntax Tree"
 date:   2017-12-15 21:40:00 +0900
-categories: compiler
-permalink: /compiler02/
-tag: [compiler, programming, parse tree, ast]
+category: Compiler
 ---
 
 ## Parse tree also called “concrete syntax”

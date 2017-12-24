@@ -2,7 +2,7 @@
 layout: post
 title:  "SMART criteria"
 date:   2017-11-25 13:00:00 +0900
-category: howto
+category: Study
 permalink: /smart/
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Probability study 01, 02"
 date:   2017-11-21 20:00:00 +0900
-categories: math
+category: Mathematics
 ---
 
 

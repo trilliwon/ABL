@@ -23,8 +23,7 @@ title: category
 	{% endif %}
 {% endfor %}
 
-<br/>
-
+<br>
 <div class="category">
 	{% for category in categories %}
 		<a href="#{{ category | slugify }}" class="fa fa-tag"> {{ category }}</a>&nbsp;&nbsp;
