@@ -1,0 +1,14 @@
+.category {
+  #{$a-tags} {
+  	color: $peter-river;
+    font-size: 1.5rem;
+  	text-decoration: none;
+    border-radius: 25px;
+    margin: 5px;
+  }
+
+  #{$a-tags-hover} {
+    font-size: 1.5rem;
+  	color: $grey-1;
+  }
+}

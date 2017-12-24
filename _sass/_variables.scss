@@ -7,6 +7,7 @@ $grey-3: #f9f9f9;
 $white: #fff;
 $blue: #4a9ae1;
 $shadow-color: rgba(0, 0, 0, .2);
+$peter-river: #3498db;
 
 $baskerville: 'Libre Baskerville', 'Times New Roman', Times, serif;
 $palatino: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua', 'Georgia', serif;
@@ -14,6 +15,9 @@ $sans-font: 'Helvetica Neue', 'Segoe UI', Helvetica, Arial, sans-serif;
 
 $monospaced-font: Menlo, Monaco, monospace;
 $code-color: #bf616a;
+
+$a-tags: 'a, a:active, a:hover, a:visited';
+$a-tags-hover: 'a:active, a:hover';
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;

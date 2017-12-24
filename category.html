@@ -26,34 +26,29 @@ title: category
 <br/>
 
 <div class="category">
-	<h2>
 	{% for category in categories %}
-		<a href="#{{ category | slugify }}" class="fa fa-tag"> #{{ category }} </a>&nbsp;&nbsp;
+		<a href="#{{ category | slugify }}" class="fa fa-tag"> {{ category }}</a>&nbsp;&nbsp;
 	{% endfor %}
-</h2>
 </div>
 
+<div class="catalogue">
 {% for category in categories %}
-	<h2 id="{{ category | slugify }}">{{ category }}</h2>
-	<ul>
-	 {% for post in site.posts %}
-		 {% if post.categories contains category %}
-		 <div>
-		 <time datetime="{{ post.date }}"> {{ post.date | date: "%B %d, %Y" }}</time>
-		 <h1 href="{{ post.url }}">{{ post.title }}</h1>
-		 <div class="catalogue-line"></div>
-	 	</div>
-	</br>
-	</br>
-		 {% endif %}
-
-	 {% endfor %}
-	</ul>
+<h2 id="{{ category | slugify }}">{{ category }}</h2>
+<ul>
+	{% for post in site.posts %}
+	{% if post.categories contains category %}
+	<div>
+		<time datetime="{{ post.date }}"> {{ post.date | date: "%B %d, %Y" }}</time>
+		<br>
+		<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-title">{{ post.title }}
+		<br>
+		<br>
+		<div class="catalogue-line"></div>
+		</a>
+	</div>
+	<br><br>
+	{% endif %}
+	{% endfor %}
+</ul>
 {% endfor %}
-
-
-<!-- <div>
-	<time datetime="{{ post.date }}" class="catalogue-time">{{ post.date | date: "%B %d, %Y" }}</time>
-	<h1 class="catalogue-title">{{ post.title }}</h1>
-	<div class="catalogue-line"></div>
-</div> -->
+</div>
