@@ -1,15 +1,23 @@
 .tag {
   #{$a-tags} {
-  	color: $peter-river;
-    font-size: 1.5rem;
-  	text-decoration: none;
+  	color: $midnight-blue;
+    background: $grey-2;
     border-radius: 25px;
-    margin: 5px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  	text-decoration: none;
+    padding: 10px;
+    margin: 7px;
   }
 
   #{$a-tags-hover} {
+    color: $grey-1;
+    background: $grey-2;
     font-size: 1.5rem;
-  	color: $grey-1;
+    border-radius: 25px;
+    font-weight: bold;
+    padding: 10px;
+    margin: 7px;
   }
 
   &-title {

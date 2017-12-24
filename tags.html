@@ -26,7 +26,7 @@ title: tag
 <br>
 <div class="tag">
 	{% for tag in tags %}
-		<a href="#{{ tag | slugify }}" class="fa fa-tag"> {{ tag }}</a>&nbsp;&nbsp;
+		<a href="#{{ tag | slugify }}" class="fa fa-hashtag"> {{ tag }}</a>&nbsp;&nbsp;
 	{% endfor %}
 </div>
 <br><br>
@@ -40,13 +40,13 @@ title: tag
 		<time datetime="{{ post.date }}"> {{ post.date | date: "%B %d, %Y" }}</time>
 		<br>
 		<a href="{{ post.url | prepend: site.baseurl }}" class="catalogue-title">{{ post.title }}
-		<br>
 		<div class="catalogue-line"></div>
 		</a>
 	</div>
 	<br><br>
 	{% endif %}
 	{% endfor %}
+	<hr>
 </ul>
 {% endfor %}
 </div>

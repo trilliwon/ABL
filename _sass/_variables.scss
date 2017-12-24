@@ -18,7 +18,7 @@ $monospaced-font: Menlo, Monaco, monospace;
 $code-color: #bf616a;
 
 $a-tags: 'a, a:active, a:hover, a:visited';
-$a-tags-hover: 'a:active, a:hover';
+$a-tags-hover: 'a:active';
 
 @mixin box-sizing($type: border-box) {
   -webkit-box-sizing: $type;
