@@ -26,6 +26,9 @@ tag: [Doing List]
 
 ---
 
+# [Calculus One](https://www.coursera.org/learn/calculus1)
+# [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/info)
+
 # [Engineering: CS1 - SELF PACED Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014)
 
 >## Week 1: Introduction & the Cool Programming Language [DONE]
@@ -59,21 +62,5 @@ tag: [Doing List]
 >>### QUIZ 1 [TODO]
 >## Unit 02 [TODO]
 >## Unit 03 [TODO]
-
----
-
-# [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
-
->## 9B-L1	Binary morphology	 [DONE]
->## 1A-L1 Introduction [DONE]
->## 2A-L1 Images as functions [DONE]
->## 2A-L2 Filtering [DONE]
->## 2A-L3 Linearity and convolution [DONE]
->## 2A-L4 Filters as templates [DONE]
->## 2A-L5 Edge detection: Gradients [DONE]
->## 2A-L6 Edge detection: 2D operators [DONE]
->## 2B-L1 Hough transform: Lines [DONE]
->## 2B-L2 Hough transform: Circles [DONE]
->## 2B-L3 Generalized Hough transform [DONE]
 
 ---
