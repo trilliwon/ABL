@@ -1,58 +1,28 @@
 ---
 layout: post
-title:  "DOINGLIST"
+title:  "DOING LIST"
 date:   2018-12-31 24:00:00 +0900
-tag: Doing List
+tag: [Doing List]
 ---
 
 # DOINGLIST
 
 > DOINGLIST contains what I am studying these days.
 
-# [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+# [Introduction to Computer Science and Programming Using Python Resume Course](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/)
 
->## 9B-L1	Binary morphology	 [DONE]
->## 1A-L1 Introduction [DONE]
->## 2A-L1 Images as functions [DONE]
->## 2A-L2 Filtering [DONE]
->## 2A-L3 Linearity and convolution [DONE]
->## 2A-L4 Filters as templates [DONE]
->## 2A-L5 Edge detection: Gradients [DONE]
->## 2A-L6 Edge detection: 2D operators [DONE]
->## 2B-L1 Hough transform: Lines [DONE]
->## 2B-L2 Hough transform: Circles [DONE]
->## 2B-L3 Generalized Hough transform [DONE]
----
->## 2C-L1 Fourier transform [TODO]
->## 2C-L2 Convolution in frequency domain [TODO]
->## 2C-L3 Aliasing [TODO]
----
->## 3A-L1 Cameras and images [DONE]
->## 3A-L1 Cameras and images [DONE]
->## 3A-L2 Perspective imaging [TODO]
-
-
-
->## ...
-
----
-
-# [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
-
->## Unit 01
->>### [INTRODUCTION TO 6.00](http://www.trilliwon.com/blog/mit600cs_unit1_01/) [DONE]
->>### [CORE ELEMENTS OF A PROGRAM](http://www.trilliwon.com/blog/mit600cs_unit1_02/) [DONE]
->>### PROBLEM SOLVING [DONE]
->>### MACHINE INTERPRETATION OF A PROGRAM [TODO]
->>### OBJECTS IN PYTHON [TODO]
->>### RECURSION [TODO]
->>### DEBUGGING [TODO]
->>### EFFICIENCY AND ORDER OF GROWTH [TODO]
->>### MEMORY AND SEARCH METHODS [TODO]
->>### QUIZ 1 [TODO]
-
->## Unit 02 [TODO]
->## Unit 03 [TODO]
+>> ## Week 1: Python Basics
+>>> ### 1. Introduction to Python [DONE]
+>>> ### 2. 2. Core Elements of Programs [DONE]
+>>> ### Problem Set 1 [TODO]
+>> ## Week 2: Simple Programs [TODO]
+>> ## Week 3: Structured Types [TODO]
+>> ## Midterm Exam [TODO]
+>> ## Week 4: Good Programming Practices [TODO]
+>> ## Week 5: Object Oriented Programming [TODO]
+>> ## Week 6: Algorithmic Complexity [TODO]
+>> ## Week 7: Plotting [TODO]
+>> ## Final Exam [TODO]
 
 ---
 
@@ -71,5 +41,39 @@ tag: Doing List
 >## Week 10: Java > 18-03: Java Exceptions [TODO]
 >## Final [TODO]
 >## Course Completion [TODO]
+
+---
+
+# [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+
+>## Unit 01
+>>### [INTRODUCTION TO 6.00](http://www.trilliwon.com/blog/mit600cs_unit1_01/) [DONE]
+>>### [CORE ELEMENTS OF A PROGRAM](http://www.trilliwon.com/blog/mit600cs_unit1_02/) [DONE]
+>>### PROBLEM SOLVING [DONE]
+>>### MACHINE INTERPRETATION OF A PROGRAM [TODO]
+>>### OBJECTS IN PYTHON [TODO]
+>>### RECURSION [TODO]
+>>### DEBUGGING [TODO]
+>>### EFFICIENCY AND ORDER OF GROWTH [TODO]
+>>### MEMORY AND SEARCH METHODS [TODO]
+>>### QUIZ 1 [TODO]
+>## Unit 02 [TODO]
+>## Unit 03 [TODO]
+
+---
+
+# [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+
+>## 9B-L1	Binary morphology	 [DONE]
+>## 1A-L1 Introduction [DONE]
+>## 2A-L1 Images as functions [DONE]
+>## 2A-L2 Filtering [DONE]
+>## 2A-L3 Linearity and convolution [DONE]
+>## 2A-L4 Filters as templates [DONE]
+>## 2A-L5 Edge detection: Gradients [DONE]
+>## 2A-L6 Edge detection: 2D operators [DONE]
+>## 2B-L1 Hough transform: Lines [DONE]
+>## 2B-L2 Hough transform: Circles [DONE]
+>## 2B-L3 Generalized Hough transform [DONE]
 
 ---
