@@ -9,12 +9,15 @@ tag: [Doing List]
 
   - DOINGLIST contains what I am studying these days.
 
+---
+
 # [Introduction to Computer Science and Programming Using Python Resume Course](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/)
 
 ### Week 1: Python Basics
   - [x] 1. Introduction to Python [DONE]
   - [x] 2. 2. Core Elements of Programs [DONE]
   - [ ] Problem Set 1 [TODO]
+
 ### Week 2: Simple Programs [TODO]
 ### Week 3: Structured Types [TODO]
 ### Midterm Exam [TODO]
