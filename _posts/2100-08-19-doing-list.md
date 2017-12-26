@@ -22,6 +22,13 @@ tag: [Doing List]
 ## 3.10 Linear Approximations and Differentials
   - [ ] Review exercises: 3, 9, 13, 16, 19, 27, 31, 36, 38
 
+## 3.11 Hyperbolic Functions
+  - [ ] Review exercises: 5, 9, 11, 15, 21, 31, 34, 36, 43, 45, 51, 55
+
+## 4.4 Indeterminate Forms and L'Hospital Rule
+  - [ ] Review exercises: 17, 28, 31, 39, 49, 52, 57, 65, 74, 84
+
+---
 
 # [Introduction to Computer Science and Programming Using Python Resume Course](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/)
 
