@@ -8,4 +8,4 @@ tag: Compiler
 ## Parse tree also called “concrete syntax”
 ## AST discards (abstracts) unneeded information – more compact format
 
-![](http://www.trilliwon.com/blog/images/ptvsast.jpeg)
+![My helpful screenshot]({{ "/assets/ptvsast.jpeg" | absolute_url }})
