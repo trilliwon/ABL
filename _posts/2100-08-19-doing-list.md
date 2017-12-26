@@ -5,8 +5,7 @@ date:   2100-08-19 03:00:00 +0900
 tag: [Doing List]
 ---
 
-# DOING LIST
-> DOINGLIST contains what I am studying these days.
+> DOING LIST contains what I am studying these days.
 
 ---
 
