@@ -30,7 +30,7 @@ tag: [Doing List]
 
 ---
 
-# Introduction to Computer Science and Programming Using Python Resume Course
+# Introduction to Computer Science and Programming Using Python
 
 ## Week 1: Python Basics
   - [x] 1. Introduction to Python [DONE]
