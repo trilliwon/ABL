@@ -32,18 +32,18 @@ tag: [Doing List]
 # Introduction to Computer Science and Programming Using Python
 
 ### Week 1: Python Basics
-  - [x] 1. Introduction to Python [DONE]
-  - [x] 2. 2. Core Elements of Programs [DONE]
-  - [ ] Problem Set 1 [TODO]
+  - [x] 1. Introduction to Python
+  - [x] 2. 2. Core Elements of Programs
+  - [ ] Problem Set 1
 
-### Week 2: Simple Programs [TODO]
-### Week 3: Structured Types [TODO]
-### Midterm Exam [TODO]
-### Week 4: Good Programming Practices [TODO]
-### Week 5: Object Oriented Programming [TODO]
-### Week 6: Algorithmic Complexity [TODO]
-### Week 7: Plotting [TODO]
-### Final Exam [TODO]
+### Week 2: Simple Programs
+### Week 3: Structured Types
+### Midterm Exam
+### Week 4: Good Programming Practices
+### Week 5: Object Oriented Programming
+### Week 6: Algorithmic Complexity
+### Week 7: Plotting
+### Final Exam
 
 ---
 
