@@ -6,8 +6,7 @@ tag: [Doing List]
 ---
 
 # DOINGLIST
-
-  - DOINGLIST contains what I am studying these days.
+> DOINGLIST contains what I am studying these days.
 
 ---
 
