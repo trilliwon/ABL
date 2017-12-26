@@ -12,7 +12,7 @@ tag: [Doing List]
 # Calculus1 (Calculus: Early Transcendentals, 8th ed)
 
 ### 1.5 Inverse Functions and Logarithmic (Inverse Trigonometric Functions)
-  - [ ] Review exercises: 63, 67, 68, 69, 71
+  - [x] Review exercises: 63, 67, 68, 69, 71 (2017.12.26)
 
 ### 3.5 Implicit Differentiation
   - [ ] Review exercises: 7, 12, 17, 24, 25, 31, 37, 46, 51, 55, 60, 65
