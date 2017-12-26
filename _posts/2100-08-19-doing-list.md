@@ -61,40 +61,40 @@ tag: [Doing List]
 ## Week 1: Introduction & the Cool Programming Language
   - [x] Done
 
-## Week 2: Lexical Analysis & Finite Automata [TODO]
+## Week 2: Lexical Analysis & Finite Automata
 
-## Week 3: Parsing & Top-Down Parsing [DONE]
+## Week 3: Parsing & Top-Down Parsing]
   - [x] Done
-## Week 4: Bottom-Up Parsing I & II [DONE]
+## Week 4: Bottom-Up Parsing I & II
   - [x] Done
 
-## Midterm [TODO]
-## Week 5: Semantic Analysis and Type Checking [TODO]
-## Week 6: Cool Type Checking & Runtime Organization [TODO]
-## Week 7: Code Generation & Operational Semantics [TODO]
-## Week 8: Local Optimization & Global Optimization [TODO]
-## Week 9: Register Allocation & Garbage Collection [TODO]
-## Week 10: Java > 18-03: Java Exceptions [TODO]
-## Final [TODO]
-## Course Completion [TODO]
+## Midterm
+## Week 5: Semantic Analysis and Type Checking
+## Week 6: Cool Type Checking & Runtime Organization
+## Week 7: Code Generation & Operational Semantics
+## Week 8: Local Optimization & Global Optimization
+## Week 9: Register Allocation & Garbage Collection
+## Week 10: Java > 18-03: Java Exceptions
+## Final
+## Course Completion
 
 ---
 
 # [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 ## Unit 01
-  - [x] INTRODUCTION TO 6.00 [DONE]
-  - [x] CORE ELEMENTS OF A PROGRAM [DONE]
-  - [ ] PROBLEM SOLVING [DONE]
-  - [ ] MACHINE INTERPRETATION OF A PROGRAM [TODO]
-  - [ ] OBJECTS IN PYTHON [TODO]
-  - [ ] RECURSION [TODO]
-  - [ ] DEBUGGING [TODO]
-  - [ ] EFFICIENCY AND ORDER OF GROWTH [TODO]
-  - [ ] MEMORY AND SEARCH METHODS [TODO]
-  - [ ] QUIZ 1 [TODO]
+  - [x] INTRODUCTION TO 6.00
+  - [x] CORE ELEMENTS OF A PROGRAM
+  - [ ] PROBLEM SOLVING
+  - [ ] MACHINE INTERPRETATION OF A PROGRAM
+  - [ ] OBJECTS IN PYTHON
+  - [ ] RECURSION
+  - [ ] DEBUGGING
+  - [ ] EFFICIENCY AND ORDER OF GROWTH
+  - [ ] MEMORY AND SEARCH METHODS
+  - [ ] QUIZ 1
 
-## Unit 02 [TODO]
-## Unit 03 [TODO]
+## Unit 02
+## Unit 03
 
 ---
