@@ -11,9 +11,17 @@ tag: [Doing List]
 
 ---
 
-# Calculus1
+# Calculus1 (Calculus: Early Transcendentals, 8th ed)
 
-## 
+## 1.5 Inverse Functions and Logarithmic (Inverse Trigonometric Functions)
+  - [ ] Review exercises: 63, 67, 68, 69, 71
+
+## 3.5 Implicit Differentiation
+  - [ ] Review exercises: 7, 12, 17, 24, 25, 31, 37, 46, 51, 55, 60, 65
+
+## 3.10 Linear Approximations and Differentials
+  - [ ] Review exercises: 3, 9, 13, 16, 19, 27, 31, 36, 38
+
 
 # [Introduction to Computer Science and Programming Using Python Resume Course](https://courses.edx.org/courses/course-v1:MITx+6.00.1x+2T2017_2/course/)
 
