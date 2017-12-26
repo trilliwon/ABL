@@ -19,7 +19,12 @@ layout: default
 
   <h1 class="post-title">{{ page.title }}</h1>
   <div class="post-line"></div>
-  {{ content }}
+  {{ content | replace: '<li>[ ]',
+      '<li class="box task-list-item">
+      <input type="checkbox" class="task-list-item-checkbox" disabled>' |
+  replace: '<li>[x]',
+      '<li class="box_done task-list-item">
+      <input type="checkbox" class="task-list-item-checkbox" value="on" disabled checked>'  }}
   <br>
   <div class="tag">
   	{% for tag in page.tags %}
@@ -27,14 +32,6 @@ layout: default
   	{% endfor %}
   </div>
 
-  <div class="post-content markdown-body" itemprop="articleBody">
-    {{ content | replace: '<li>[ ]',
-        '<li class="box task-list-item">
-        <input type="checkbox" class="task-list-item-checkbox" disabled>' |
-    replace: '<li>[x]',
-        '<li class="box_done task-list-item">
-        <input type="checkbox" class="task-list-item-checkbox" value="on" disabled checked>'  }}
-  </div>
 </div>
 
 <div class="pagination">
