@@ -40,6 +40,7 @@ tag: [Doing List]
   - [ ] 4. Functions
   - [ ] Complete Programming Experience: polysum
   - [ ] Problem Set 2
+
 ### Week 3: Structured Types
 ### Midterm Exam
 ### Week 4: Good Programming Practices
