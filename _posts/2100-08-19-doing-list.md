@@ -36,6 +36,10 @@ tag: [Doing List]
   - [x] Problem Set 1
 
 ### Week 2: Simple Programs
+  - [ ] 3. Simple Algorithms
+  - [ ] 4. Functions
+  - [ ] Complete Programming Experience: polysum
+  - [ ] Problem Set 2
 ### Week 3: Structured Types
 ### Midterm Exam
 ### Week 4: Good Programming Practices
