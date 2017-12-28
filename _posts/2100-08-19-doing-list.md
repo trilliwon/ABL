@@ -15,7 +15,7 @@ tag: [Doing List]
   - [x] Review exercises: 63, 67, 68, 69, 71 (2017.12.26)
 
 ### 3.5 Implicit Differentiation
-  - [ ] Review exercises: 7, 12, 17, 24, 25, 31, 37, 46, 51, 55, 60, 65
+  - [x] Review exercises: 7, 12, 17, 24, 25, 31, 37, 46, 51, 55, 60, 65
 
 ### 3.10 Linear Approximations and Differentials
   - [ ] Review exercises: 3, 9, 13, 16, 19, 27, 31, 36, 38
@@ -33,7 +33,7 @@ tag: [Doing List]
 ### Week 1: Python Basics
   - [x] 1. Introduction to Python
   - [x] 2. 2. Core Elements of Programs
-  - [ ] Problem Set 1
+  - [x] Problem Set 1
 
 ### Week 2: Simple Programs
 ### Week 3: Structured Types
