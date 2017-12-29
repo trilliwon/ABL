@@ -21,7 +21,8 @@ tag: [Doing List]
   - [x] Review exercises: 3, 9, 13, 16, 19, 27, 31, 36, 38 (2017.12.29)
 
 ### 3.11 Hyperbolic Functions
-  - [ ] Review exercises: 5, 9, 11, 15, 21, 31, 34, 36, 43, 45, 51, 55
+  - [x] Review exercises: 5, 9, 11, 15, 21, 31, 34, 36, 43, 45 (2017.12.29)
+  - [ ] Review exercises: 51, 55
 
 ### 4.4 Indeterminate Forms and L'Hospital Rule
   - [ ] Review exercises: 17, 28, 31, 39, 49, 52, 57, 65, 74, 84
