@@ -15,10 +15,10 @@ tag: [Doing List]
   - [x] Review exercises: 63, 67, 68, 69, 71 (2017.12.26)
 
 ### 3.5 Implicit Differentiation
-  - [x] Review exercises: 7, 12, 17, 24, 25, 31, 37, 46, 51, 55, 60, 65
+  - [x] Review exercises: 7, 12, 17, 24, 25, 31, 37, 46, 51, 55, 60, 65 (2017.12.28)
 
 ### 3.10 Linear Approximations and Differentials
-  - [ ] Review exercises: 3, 9, 13, 16, 19, 27, 31, 36, 38
+  - [x] Review exercises: 3, 9, 13, 16, 19, 27, 31, 36, 38 (2017.12.29)
 
 ### 3.11 Hyperbolic Functions
   - [ ] Review exercises: 5, 9, 11, 15, 21, 31, 34, 36, 43, 45, 51, 55
