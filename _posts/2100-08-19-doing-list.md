@@ -25,7 +25,7 @@ tag: [Doing List]
   - [ ] Review exercises: 51, 55
 
 ### 4.4 Indeterminate Forms and L'Hospital Rule
-  - [ ] Review exercises: 17, 28, 31, 39, 49, 52, 57, 65, 74, 84
+  - [x] Review exercises: 17, 28, 31, 39, 49, 52, 57, 65, 74, 84
 
 ### 5.2 The Definite Integral
   - [ ] Review exercises: 11, 24, 29, 41, 47, 53, 74
@@ -44,7 +44,7 @@ tag: [Doing List]
 
 ### 7.1 Integration by Parts
   - [ ] Review exercises: 9, 11, 14, 30, 38, 42, 50, 53, 62, 71
-  
+
 ### 7.2 Trigonometric Integrals
   - [ ] Review exercises: 2, 11, 22, 28, 36, 49, 67
 
