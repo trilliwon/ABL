@@ -28,7 +28,7 @@ tag: [Doing List]
   - [x] Review exercises: 17, 28, 31, 39, 49, 52, 57, 65, 74, 84
 
 ### 5.2 The Definite Integral
-  - [ ] Review exercises: 11, 24, 29, 41, 47, 53, 74
+  - [x] Review exercises: 11, 24, 29, 41, 47, 53, 74
 
 ### 5.3 The Fundamental Theorem of Calculus
   - [ ] Review exercises: 12, 16, 38, 42, 63, 65, 76, 83, 84
