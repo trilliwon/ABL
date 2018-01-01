@@ -41,7 +41,7 @@ tag: [math]
 
 ### _I can achieve at the highest math levels if I want to._
 
-### [Statement]({{ "/assets/pdf/how-to-learn-math-statement.pdf" | absolute_url }})
+### [Statements of Accomplishment]({{ "/assets/pdf/how-to-learn-math-statement.pdf" | absolute_url }})
 
 ---
 
