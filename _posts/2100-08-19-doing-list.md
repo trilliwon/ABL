@@ -31,7 +31,7 @@ tag: [Doing List]
   - [x] Review exercises: 11, 24, 29, 41, 47, 53, 74
 
 ### 5.3 The Fundamental Theorem of Calculus
-  - [ ] Review exercises: 12, 16, 38, 42, 63, 65, 76, 83, 84
+  - [x] Review exercises: 12, 16, 38, 42, 63, 65, 76, 83, 84
 
 ### 5.4 Indefinite Integrals and the Net Change Theorem(The Net Change Theorem 제외)
   - [ ] Review exercises: 16, 40, 51
