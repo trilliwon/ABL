@@ -34,7 +34,7 @@ tag: [Doing List]
   - [x] Review exercises: 12, 16, 38, 42, 63, 65, 76, 83, 84 (2018.01.01)
 
 ### 5.4 Indefinite Integrals and the Net Change Theorem(The Net Change Theorem 제외)
-  - [ ] Review exercises: 16, 40, 51
+  - [x] Review exercises: 16, 40, 51
 
 ### 5.5 The Substitution Rule
   - [ ] Review exercises: 21, 30, 37, 38, 43, 68, 88, 91
