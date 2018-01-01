@@ -39,6 +39,10 @@ tag: [math]
 
 ---
 
-# I can achieve at the highest math levels if I want to.
+# _I can achieve at the highest math levels if I want to._
 
 ### [Statement]({{ "/assets/pdf/how-to-learn-math-statement.pdf" | absolute_url }})
+
+---
+
+[Stanford Lagunita](https://lagunita.stanford.edu)
