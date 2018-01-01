@@ -25,19 +25,22 @@ tag: [Doing List]
   - [ ] Review exercises: 51, 55
 
 ### 4.4 Indeterminate Forms and L'Hospital Rule
-  - [x] Review exercises: 17, 28, 31, 39, 49, 52, 57, 65, 74, 84
+  - [x] Review exercises: 17, 28, 31, 39, 49, 52, 57, 65, 74, 84 (2017.12.30)
 
 ### 5.2 The Definite Integral
-  - [x] Review exercises: 11, 24, 29, 41, 47, 53, 74
+  - [x] Review exercises: 11, 24, 29, 41, 47, 53, 74 (2017.12.31)
 
 ### 5.3 The Fundamental Theorem of Calculus
-  - [x] Review exercises: 12, 16, 38, 42, 63, 65, 76, 83, 84
+  - [x] Review exercises: 12, 16, 38, 42, 63, 65, 76, 83, 84 (2018.01.01)
 
 ### 5.4 Indefinite Integrals and the Net Change Theorem(The Net Change Theorem 제외)
   - [ ] Review exercises: 16, 40, 51
 
 ### 5.5 The Substitution Rule
   - [ ] Review exercises: 21, 30, 37, 38, 43, 68, 88, 91
+
+### 6.2 Volumes
+  - [ ] Review exercises:
 
 ### 6.3 Volumes by Cylindrical Shells
   - [ ] Review exercises: 2, 5, 8, 14, 19, 31, 39, 41
@@ -47,6 +50,13 @@ tag: [Doing List]
 
 ### 7.2 Trigonometric Integrals
   - [ ] Review exercises: 2, 11, 22, 28, 36, 49, 67
+
+###	7.3 Trigonometric Substitution
+  - [ ] Review exercises: 5, 7, 16, 25, 30, 39
+
+### 7.4 Integration of Rational Functions by Partial Fractions
+  - [ ] Review exercises: 12, 16, 30, 37, 46, 52
+
 
 ---
 
