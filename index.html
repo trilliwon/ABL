@@ -13,9 +13,9 @@ title: Home
 
         <p>
           {% if post.description }
-          {{ post.content | truncatewords: 30 | strip_html }}
+            {{ post.content | truncatewords: 30 | strip_html }}
           {% else %}
-          {{ post.description | truncatewords: 30 | strip_html }}
+            {{ post.description | truncatewords: 30 | strip_html }}
           {% endif %}
         </p>
 
