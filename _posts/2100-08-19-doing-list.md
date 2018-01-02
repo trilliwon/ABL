@@ -46,7 +46,7 @@ tag: [Doing List]
   - [x] Review exercises: 2, 5, 8, 14, 19, 31, 39, 41
 
 ### 7.1 Integration by Parts
-  - [ ] Review exercises: 9, 11, 14, 30, 38, 42, 50, 53, 62, 71
+  - [x] Review exercises: 9, 11, 14, 30, 38, 42, 50, 53, 62, 71
 
 ### 7.2 Trigonometric Integrals
   - [ ] Review exercises: 2, 11, 22, 28, 36, 49, 67
