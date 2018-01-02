@@ -3,6 +3,7 @@ layout: post
 title:  "DOING LIST"
 date:   2100-08-19 03:00:00 +0900
 tag: [Doing List]
+description: DOING LIST contains what I am studying these days.
 ---
 
 > DOING LIST contains what I am studying these days.
