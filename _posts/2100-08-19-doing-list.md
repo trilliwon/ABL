@@ -37,7 +37,7 @@ tag: [Doing List]
   - [x] Review exercises: 16, 40, 51
 
 ### 5.5 The Substitution Rule
-  - [ ] Review exercises: 21, 30, 37, 38, 43, 68, 88, 91
+  - [x] Review exercises: 21, 30, 37, 38, 43, 68, 88, 91
 
 ### 6.2 Volumes
   - [ ] Review exercises:
