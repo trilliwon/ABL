@@ -37,13 +37,13 @@ tag: [Doing List]
   - [x] Review exercises: 16, 40, 51
 
 ### 5.5 The Substitution Rule
-  - [ ] Review exercises: 21, 30, 37, 38, 43, 68, 88, 91
+  - [x] Review exercises: 21, 30, 37, 38, 43, 68, 88, 91
 
 ### 6.2 Volumes
-  - [ ] Review exercises:
+  - [x] Review exercises:
 
 ### 6.3 Volumes by Cylindrical Shells
-  - [ ] Review exercises: 2, 5, 8, 14, 19, 31, 39, 41
+  - [x] Review exercises: 2, 5, 8, 14, 19, 31, 39, 41
 
 ### 7.1 Integration by Parts
   - [ ] Review exercises: 9, 11, 14, 30, 38, 42, 50, 53, 62, 71
