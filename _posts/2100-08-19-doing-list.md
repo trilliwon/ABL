@@ -50,7 +50,7 @@ description: DOING LIST contains what I am studying these days.
   - [x] Review exercises: 9, 11, 14, 30, 38, 42, 50, 53, 62, 71
 
 ### 7.2 Trigonometric Integrals
-  - [ ] Review exercises: 2, 11, 22, 28, 36, 49, 67
+  - [x] Review exercises: 2, 11, 22, 28, 36, 49, 67
 
 ###	7.3 Trigonometric Substitution
   - [ ] Review exercises: 5, 7, 16, 25, 30, 39
