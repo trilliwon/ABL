@@ -12,7 +12,7 @@ title: Home
         <div class="catalogue-line"></div>
 
         <p>
-          {{% if post.description == "" }}
+          {{% if post.description }}
           {{ post.content | truncatewords: 30 | strip_html }}
           {% else %}
           {{ post.description | truncatewords: 30 | strip_html }}
