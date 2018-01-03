@@ -53,10 +53,10 @@ description: DOING LIST contains what I am studying these days.
   - [x] Review exercises: 2, 11, 22, 28, 36, 49, 67
 
 ###	7.3 Trigonometric Substitution
-  - [ ] Review exercises: 5, 7, 16, 25, 30, 39
+  - [x] Review exercises: 5, 7, 16, 25, 30, 39
 
 ### 7.4 Integration of Rational Functions by Partial Fractions
-  - [ ] Review exercises: 12, 16, 30, 37, 46, 52
+  - [x] Review exercises: 12, 16, 30, 37, 46, 52
 
 
 ---
