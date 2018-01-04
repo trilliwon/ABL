@@ -10,9 +10,6 @@ description: DOING LIST contains what I am studying these days.
 
 ---
 
-
----
-
 # Introduction to Computer Science and Programming Using Python
 
 ### Week 1: Python Basics
