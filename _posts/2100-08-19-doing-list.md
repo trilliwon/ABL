@@ -23,7 +23,7 @@ description: DOING LIST contains what I am studying these days.
 
 ### 3.11 Hyperbolic Functions
   - [x] Review exercises: 5, 9, 11, 15, 21, 31, 34, 36, 43, 45 (2017.12.29)
-  - [ ] Review exercises: 51, 55
+  - [x] Review exercises: 51, 55
 
 ### 4.4 Indeterminate Forms and L'Hospital Rule
   - [x] Review exercises: 17, 28, 31, 39, 49, 52, 57, 65, 74, 84 (2017.12.30)
@@ -53,10 +53,10 @@ description: DOING LIST contains what I am studying these days.
   - [x] Review exercises: 2, 11, 22, 28, 36, 49, 67
 
 ###	7.3 Trigonometric Substitution
-  - [ ] Review exercises: 5, 7, 16, 25, 30, 39
+  - [x] Review exercises: 5, 7, 16, 25, 30, 39 (2018.01.02)
 
 ### 7.4 Integration of Rational Functions by Partial Fractions
-  - [ ] Review exercises: 12, 16, 30, 37, 46, 52
+  - [x] Review exercises: 12, 16, 30, 37, 46, 52 (2018.01.02)
 
 
 ---
@@ -85,10 +85,6 @@ description: DOING LIST contains what I am studying these days.
 ---
 
 # [Calculus One](https://www.coursera.org/learn/calculus1)
-
----
-
-# [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/info)
 
 ---
 
