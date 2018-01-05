@@ -65,10 +65,6 @@ description: DOING LIST contains what I am studying these days.
 
 ---
 
-# [Calculus One](https://www.coursera.org/learn/calculus1)
-
----
-
 # [Engineering: CS1 - SELF PACED Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014)
 
 ### Week 1: Introduction & the Cool Programming Language
