@@ -11,11 +11,11 @@ description: DOING LIST contains what I am studying these days.
 # Calculus1 - 2
 
 ### 7.8 Improper Integrals / 8.1 Arc Length
-  - [ ] Review exercises: 7, 12, 19, 30, 50, 52, 55, 58, 79
-  - [ ] Review exercises: 10, 16, 37, 45
+  - [x] Review exercises: 7, 12, 19, 30, 50, 52, 55, 58, 79
+  - [x] Review exercises: 10, 16, 37, 45
 
 ### 8.2 Areas of a Surface of Revolution/10.2 Calculus with Parametric Curves
-  - [ ] Review exercises: 11, 14, 17, 33, 35
+  - [x] Review exercises: 11, 14, 17, 33, 35
   - [ ] Review exercises: 6, 15, 28, 33, 43, 44, 57, 63
 
 ### 10.3 Polar Coordinates/10.4 Areas and Arc Length in Polar Coordinates
