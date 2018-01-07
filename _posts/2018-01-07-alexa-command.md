@@ -74,9 +74,10 @@ description: All about commands to communicate with Alexa
 
 # Music
 
+- `Alexa, next`
+- `Alexa, previous.`
 - `Alexa, what's playing?`
 - `Alexa, play`
-- `Alexa, next`
 - `Alexa, restart.`
 - `Alexa, add this song.`
 - `Alexa, I like this song`
@@ -95,3 +96,10 @@ description: All about commands to communicate with Alexa
 - `Alexa, next chapter`
 - `Alexa, previous chapter.`
 - `Alexa, read me my Kindle book.`
+
+# Notification
+
+- `Alexa, what did I miss?`
+- `Alexa, read my notifications`
+- `Alexa, what are my notifications?`
+- `Alexa, delete all of my notifications.`
