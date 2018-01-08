@@ -16,7 +16,7 @@ description: DOING LIST contains what I am studying these days.
 
 ### 8.2 Areas of a Surface of Revolution/10.2 Calculus with Parametric Curves
   - [x] Review exercises: 11, 14, 17, 33, 35
-  - [ ] Review exercises: 6, 15, 28, 33, 43, 44, 57, 63
+  - [x] Review exercises: 6, 15, 28, 33, 43, 44, 57, 63
 
 ### 10.3 Polar Coordinates/10.4 Areas and Arc Length in Polar Coordinates
   - [ ] Review exercises: 10, 18, 25, 29, 35, 42, 45, 56, 61
