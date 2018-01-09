@@ -19,8 +19,8 @@ description: DOING LIST contains what I am studying these days.
   - [x] Review exercises: 6, 15, 28, 33, 43, 44, 57, 63
 
 ### 10.3 Polar Coordinates/10.4 Areas and Arc Length in Polar Coordinates
-  - [ ] Review exercises: 10, 18, 25, 29, 35, 42, 45, 56, 61
-  - [ ] Review exercises: 3, 5, 10, 21, 28, 32, 41, 48
+  - [x] Review exercises: 10, 18, 25, 29, 35, 42, 45, 56, 61
+  - [x] Review exercises: 3, 5, 10, 21, 28, 32, 41, 48
 
 ### 11.1 Sequences(p701 Definition부터)/11.2 Series(요약해서 필요부분만)/11.3 The Integral Test and Estimates of Sums/11.4 The Comparison Tests
   - [ ] Review exercises: 81
