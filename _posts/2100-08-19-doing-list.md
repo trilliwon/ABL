@@ -32,8 +32,8 @@ description: DOING LIST contains what I am studying these days.
   - [x] Review exercises: 6, 9, 14, 22, 30, 31, 36, 44, 45
 
 ### 11.7 Strategy for Testing Series/11.8 Power Series/11.9 Representations of Functions as Power Series
-  - [ ] Review exercises: 1, 6, 11, 17, 23, 29, 36
-  - [ ] Review exercises: 4, 7, 14, 15, 17, 24, 26, 30, 31, 37
+  - [x] Review exercises: 1, 6, 11, 17, 23, 29, 36
+  - [x] Review exercises: 4, 7, 14, 15, 17, 24, 26, 30, 31, 37
   - [ ] Review exercises: 4, 8, 10, 14, 16, 20, 28, 30
 
 ### 11.10 Taylor and Maclaurin Series
