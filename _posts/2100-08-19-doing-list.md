@@ -25,7 +25,7 @@ description: DOING LIST contains what I am studying these days.
 ### 11.1 Sequences(p701 Definition부터)/11.2 Series(요약해서 필요부분만)/11.3 The Integral Test and Estimates of Sums/11.4 The Comparison Tests
   - [x] Review exercises: 81
   - [x] Review exercises: 6, 13, 18, 22, 24, 29, 36, 46
-  - [ ] Review exercises: 3, 9, 13, 25, 31, 38, 45
+  - [x] Review exercises: 3, 9, 13, 25, 31, 38, 45
 
 ### 11.5 Alternating Series/11.6 Absolute Convergence and the Ratio and Root Tests
   - [x] Review exercises: 4, 12, 17, 20, 25, 27, 34
