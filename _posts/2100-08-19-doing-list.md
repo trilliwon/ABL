@@ -28,8 +28,8 @@ description: DOING LIST contains what I am studying these days.
   - [ ] Review exercises: 3, 9, 13, 25, 31, 38, 45
 
 ### 11.5 Alternating Series/11.6 Absolute Convergence and the Ratio and Root Tests
-  - [ ] Review exercises: 4, 12, 17, 20, 25, 27, 34
-  - [ ] Review exercises: 6, 9, 14, 22, 30, 31, 36, 44, 45
+  - [x] Review exercises: 4, 12, 17, 20, 25, 27, 34
+  - [x] Review exercises: 6, 9, 14, 22, 30, 31, 36, 44, 45
 
 ### 11.7 Strategy for Testing Series/11.8 Power Series/11.9 Representations of Functions as Power Series
   - [ ] Review exercises: 1, 6, 11, 17, 23, 29, 36
