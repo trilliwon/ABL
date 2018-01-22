@@ -16,7 +16,7 @@ description: DOING LIST contains what I am studying these days.
   - [x] Problem Set 1
 
 ### Week 2: Simple Programs
-  - [ ] 3. Simple Algorithms
+  - [x] 3. Simple Algorithms
   - [ ] 4. Functions
   - [ ] Complete Programming Experience: polysum
   - [ ] Problem Set 2
