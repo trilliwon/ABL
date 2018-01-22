@@ -14,10 +14,9 @@ title: Home
         <!-- black line -->
         <div class="catalogue-line"></div>
 
-        <p>
-          {{ post.content | truncatewords: 30 }}
+        <p class="catalogue-detail">
+          {{ post.content | truncatewords: 30 | strip_html }}
         </p>
-        <div>{{strip_html}}</div>
       </div>
       <br>
     </a>
