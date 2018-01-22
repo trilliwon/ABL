@@ -14,9 +14,9 @@ title: Home
         <!-- black line -->
         <div class="catalogue-line"></div>
 
-        <h6 class="catalogue-detail">
-          {{ post.content | truncatewords: 30 | strip_newlines }}
-        </h6>
+        <p>
+          {{ post.content | truncatewords: 30 | strip_html }}
+        </p>
       </div>
       <br>
     </a>
