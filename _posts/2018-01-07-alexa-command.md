@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Alexa Commands List"
-date:   2100-08-19 03:00:00 +0900
+date:   1992-08-19 03:00:00 +0900
 tag: [Alexa]
 description: All about commands to communicate with Alexa
 ---
