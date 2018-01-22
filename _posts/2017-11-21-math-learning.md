@@ -5,7 +5,10 @@ date:   2017-11-23 15:50:00 +0900
 tags: [Mathematics]
 ---
 
-# MATH Learning
+# Math definitions
+
+<iframe src="https://quizlet.com/256141310/flashcards/embed" height="500" width="100%" style="border:0"></iframe>
+
 
 ## [How to Learn Math](http://www.trilliwon.com/blog/2018-01-01/how-to-learn-math)
   - [Stanford Lagunita](https://lagunita.stanford.edu)
