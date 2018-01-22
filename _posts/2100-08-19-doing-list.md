@@ -61,7 +61,7 @@ description: DOING LIST contains what I am studying these days.
   - [x] INTRODUCTION TO 6.00
   - [x] CORE ELEMENTS OF A PROGRAM
   - [x] PROBLEM SOLVING
-  - [ ] MACHINE INTERPRETATION OF A PROGRAM
+  - [x] MACHINE INTERPRETATION OF A PROGRAM
   - [ ] OBJECTS IN PYTHON
   - [ ] RECURSION
   - [ ] DEBUGGING
