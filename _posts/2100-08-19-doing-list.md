@@ -31,30 +31,6 @@ description: DOING LIST contains what I am studying these days.
 
 ---
 
-# [Engineering: CS1 - SELF PACED Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014)
-
-### Week 1: Introduction & the Cool Programming Language
-  - [x] Done
-
-### Week 2: Lexical Analysis & Finite Automata
-
-### Week 3: Parsing & Top-Down Parsing]
-  - [x] Done
-### Week 4: Bottom-Up Parsing I & II
-  - [x] Done
-
-### Midterm
-### Week 5: Semantic Analysis and Type Checking
-### Week 6: Cool Type Checking & Runtime Organization
-### Week 7: Code Generation & Operational Semantics
-### Week 8: Local Optimization & Global Optimization
-### Week 9: Register Allocation & Garbage Collection
-### Week 10: Java > 18-03: Java Exceptions
-### Final
-### Course Completion
-
----
-
 # [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
 
 ### Unit 01
