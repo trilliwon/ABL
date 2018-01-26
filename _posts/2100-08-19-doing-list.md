@@ -70,21 +70,5 @@ description: DOING LIST contains what I am studying these days.
 
 ---
 
-# [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
-
-### Unit 01
-  - [x] INTRODUCTION TO 6.00
-  - [x] CORE ELEMENTS OF A PROGRAM
-  - [x] PROBLEM SOLVING
-  - [x] MACHINE INTERPRETATION OF A PROGRAM
-  - [ ] OBJECTS IN PYTHON
-  - [ ] RECURSION
-  - [ ] DEBUGGING
-  - [ ] EFFICIENCY AND ORDER OF GROWTH
-  - [ ] MEMORY AND SEARCH METHODS
-  - [ ] QUIZ 1
-
-### Unit 02
-### Unit 03
-
----
+# MATHEMATICS
+- [ ] Newton's Methods
