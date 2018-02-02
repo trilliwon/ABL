@@ -13,6 +13,7 @@ description: DOING LIST contains what I am studying these days.
 ## COURSE 1: Neural Networks and Deep Learning
   - [x] Week1 : Introduction to deep learning
   - [ ] Week2 : Neural Networks Basics
+
 ## COURSE 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 ## COURSE 3: Structuring Machine Learning Projects
 ## COURSE 4: Convolutional Neural Networks
