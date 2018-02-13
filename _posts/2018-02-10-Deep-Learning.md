@@ -8,6 +8,10 @@ tag: [Deep Learning]
 # Todo list
 
 # [Machine Learning: 시즌1](https://hunkim.github.io/ml/)
+# [coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+# [coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
+# [Stanford: CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+# [Stanford: cs224n](http://web.stanford.edu/class/cs224n/syllabus.html)
 
 ---
 
