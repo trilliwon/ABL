@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          TRILLIWON
+title:          Won 👨🏻‍💻
 paginate:       42
 baseurl:        "/blog"
 url:            "https://trilliwon.github.io"
