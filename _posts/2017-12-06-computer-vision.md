@@ -452,8 +452,27 @@ http://adnoctum.tistory.com/442
 http://docs.scipy.org/doc/scipy/reference/tutorial/ndimage.html http://scipy-lectures.github.io/advanced/image_processing/ http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 http://scikit-learn.org/stable/index.html#
 ```
+
+---
+---
 ---
 
-# Todo
-- [Introduction to Computer Vision](https://classroom.udacity.com/courses/ud810)
-- [Computational Photography](https://classroom.udacity.com/courses/ud955)
+# [Computational Photography](https://classroom.udacity.com/courses/ud955)
+
+---
+
+# [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) (2017-11)
+
+- 9B-L1	Binary morphology	 [DONE]
+- 1A-L1 Introduction [DONE]
+- 2A-L1 Images as functions [DONE]
+- 2A-L2 Filtering [DONE]
+- 2A-L3 Linearity and convolution [DONE]
+- 2A-L4 Filters as templates [DONE]
+- 2A-L5 Edge detection: Gradients [DONE]
+- 2A-L6 Edge detection: 2D operators [DONE]
+- 2B-L1 Hough transform: Lines [DONE]
+- 2B-L2 Hough transform: Circles [DONE]
+- 2B-L3 Generalized Hough transform [DONE]
+
+---
