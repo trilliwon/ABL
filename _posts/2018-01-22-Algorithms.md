@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Data Structure Study"
+title:  "Algorithms"
 date:   2018-01-22 16:00:00 +0900
-tag: [Data Structure]
+tag: [Algorithms]
 ---
+
+# Data Structure
 
 # **BASIC CONCEPTS**
 
@@ -116,3 +118,13 @@ tag: [Data Structure]
   - Multiway Tries
   - Suffix Trees
   - Tries and Internet Packet Forwarding
+
+---
+
+# Todo
+
+- [algorithms](https://www.coursera.org/specializations/algorithms)
+- [logic-introduction](https://www.coursera.org/learn/logic-introduction)
+- [mit ocw algorithm  one](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+- [mit ocw algorithm two](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+- [mit ocw algorithm three](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/)

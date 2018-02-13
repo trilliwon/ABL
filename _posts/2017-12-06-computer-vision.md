@@ -452,3 +452,8 @@ http://adnoctum.tistory.com/442
 http://docs.scipy.org/doc/scipy/reference/tutorial/ndimage.html http://scipy-lectures.github.io/advanced/image_processing/ http://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb
 http://scikit-learn.org/stable/index.html#
 ```
+---
+
+# Todo
+- [Introduction to Computer Vision](https://classroom.udacity.com/courses/ud810)
+- [Computational Photography](https://classroom.udacity.com/courses/ud955)

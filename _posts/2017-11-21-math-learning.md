@@ -31,3 +31,9 @@ tags: [Mathematics]
 ## Topology (위상수학)
 ## Differential Geometry (미분기하학)
 ## Numeric Analysis (수치해석)
+
+---
+
+- [mathematical-thinking](https://www.coursera.org/learn/mathematical-thinking)
+- [Trigonometry](https://www.coursera.org/learn/trigonometry)
+- [Eigenvectors and Eigenvalues](https://classroom.udacity.com/courses/ud104)

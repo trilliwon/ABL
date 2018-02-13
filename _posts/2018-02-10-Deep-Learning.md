@@ -5,7 +5,6 @@ date:   2018-02-10 16:00:00 +0900
 tag: [Deep Learning]
 ---
 
-# Todo list
 
 # [Machine Learning: 시즌1](https://hunkim.github.io/ml/)
 # [coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
