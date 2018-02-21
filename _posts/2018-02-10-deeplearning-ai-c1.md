@@ -9,4 +9,4 @@ tag: [Deeplearning]
 # Course 1
 # Neural Networks and Deep Learning
 
-[Course note]({{ "/assets/pdf/Deeplearning.ai-c1.pdf" | absolute_url }})
+[Course note PDF]({{ "/assets/pdf/Deeplearning.ai-c1.pdf" | absolute_url }})
