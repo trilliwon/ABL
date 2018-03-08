@@ -14,7 +14,3 @@ tag: [Deeplearning]
 - [ ] [Stanford: cs224n](http://web.stanford.edu/class/cs224n/syllabus.html)
 
 ---
-
-# Optional
-
-- [coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
