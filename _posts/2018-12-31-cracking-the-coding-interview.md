@@ -27,3 +27,5 @@ description: This is to prepare a coding interview and finally to be a well prep
 - Definition : [Big "oh"] f(_n_) = O(g(_n_)) (read as "_f_ of _n_ is big oh of _g_ of _n_") if and only if there exist positive constants _c_ and _n_<sub>0</sub> such that f(_n_) <= cg(_n_) for all _n_, _n_ >= _n_<sub>0</sub>.
 
 - Definition : [Omega] f(_n_) = Ω(g(_n_)) (read as "_f_ of _n_ is omega of g of _n_") if and only if there exist positive constants c and n<sub>0</sub> such that f(_n_) >= cg(_n_) for all _n_, _n_ >= _n_<sub>0</sub>.
+
+---
