@@ -6,6 +6,6 @@ tag: [Programming]
 ---
 
 - [Doing] Principles of Programming Languages
-  - [Standard ML]({{ "/posts/sml.md" | absolute_url }})
+  - [Standard ML]({{ "/blog/2018-03-10/sml" | absolute_url }})
 
-- [Functional Programming]({{ "/posts/functional-programming-conceps.md" | absolute_url }})
+- [Functional Programming]({{ "/blog/2018-03-14/functional-programming-conceps.md" | absolute_url }})
