@@ -30,6 +30,10 @@ tag: [Deep Learning]
 
 ---
 
+- [Machine Learning]({{ "/2018-01-22/ML" | absolute_url }})
+
+---
+
 # Online courses
 
 - [x] [Machine Learning: 시즌1](https://hunkim.github.io/ml/)
