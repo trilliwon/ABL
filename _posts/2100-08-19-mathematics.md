@@ -18,9 +18,6 @@ tag: [Mathematics]
   - [one](http://www.trilliwon.com/blog/2017-12-26/calculus1)
 
 ## Probability (확률)
-  - [one]({{ site.url }}/assets/probabiltity01.pdf)
-  - [two]({{ site.url }}/assets/probabiltity02.pdf)
-
 ## Linear Algebra (선형대수)
 ## Discrete mathematics (이산수학)
 ## Set theory (집합론)
@@ -35,6 +32,5 @@ tag: [Mathematics]
 
 ---
 
-- [mathematical-thinking](https://www.coursera.org/learn/mathematical-thinking)
 - [Trigonometry](https://www.coursera.org/learn/trigonometry)
 - [Eigenvectors and Eigenvalues](https://classroom.udacity.com/courses/ud104)

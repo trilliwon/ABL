@@ -39,5 +39,3 @@ tag: [Programming]
 - [C++](http://www.trilliwon.com/blog/cpp/)
 
 ---
-
-#
