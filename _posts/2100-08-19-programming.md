@@ -9,33 +9,33 @@ tag: [Programming]
 # PL
 
 - [Doing] Principles of Programming Languages
-  - [Standard ML]({{ "/2018-03-10/sml" | absolute_url }})
+  - [Standard ML](http://www.trilliwon.com/blog/2018-03-10/sml)
 
 ---
 
 # Functional Programming
 
-- [Functional Programming Concepts]({{ "/2018-03-14/functional-programming-concepts" | absolute_url }})
+- [Functional Programming Concepts](http://www.trilliwon.com/blog/2018-03-13/functional-programming-concepts)
 
 ---
 
 # iOS
 
-- [iOS Tips]({{ "/2018-02-02/ios-tips" | absolute_url }})
-- [iOS-interview-Questions]({{ "/2018-03-13/iOS-interview-Questions" | absolute_url }})
+- [iOS Tips](http://www.trilliwon.com/blog/2018-02-02/ios-tips)
+- [iOS-interview-Questions](http://www.trilliwon.com/blog/2018-03-13/iOS-interview-Questions)
 
 ---
 
 # Python
 
-- [Updated - 2018.03.30][Python]({{ "/2018-01-17/python" | absolute_url }})
+- [Updated - 2018.03.30][Python](http://www.trilliwon.com/blog/2018-01-17/python)
 - [numpy](http://www.trilliwon.com/blog/2018-02-05/numpy)
 
 ---
 
 # C/C++
 
-- [C]({{ "/2017-12-05/c" | absolute_url }})
+- [C](http://www.trilliwon.com/blog/2017-12-05/c)
 - [C++](http://www.trilliwon.com/blog/cpp/)
 
 ---
