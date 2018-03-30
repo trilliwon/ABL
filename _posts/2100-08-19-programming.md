@@ -28,7 +28,7 @@ tag: [Programming]
 
 # Python
 
-- [Python]({{ "/2018-01-17/python" | absolute_url }})
+- [Updated - 2018.03.30][Python]({{ "/2018-01-17/python" | absolute_url }})
 - [numpy](http://www.trilliwon.com/blog/2018-02-05/numpy)
 
 ---
