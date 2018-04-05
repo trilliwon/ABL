@@ -7,9 +7,6 @@ tag: [Mathematics]
 
 # Math definitions
 
-<iframe src="https://quizlet.com/256141310/flashcards/embed" height="500" width="100%" style="border:0"></iframe>
-
-
 # [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/info) (2018-01-01)
   - [Statements of Accomplishment]({{ "/assets/pdf/how-to-learn-math-statement.pdf" | absolute_url }})
   - [Stanford Lagunita](https://lagunita.stanford.edu)
