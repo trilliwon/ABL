@@ -463,16 +463,100 @@ http://scikit-learn.org/stable/index.html#
 
 # [Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810) (2017-11)
 
-- 9B-L1	Binary morphology	 [DONE]
-- 1A-L1 Introduction [DONE]
-- 2A-L1 Images as functions [DONE]
-- 2A-L2 Filtering [DONE]
-- 2A-L3 Linearity and convolution [DONE]
-- 2A-L4 Filters as templates [DONE]
-- 2A-L5 Edge detection: Gradients [DONE]
-- 2A-L6 Edge detection: 2D operators [DONE]
-- 2B-L1 Hough transform: Lines [DONE]
-- 2B-L2 Hough transform: Circles [DONE]
-- 2B-L3 Generalized Hough transform [DONE]
-
 ---
+
+# Computer Vision Topics
+
+1. Image formation and optics
+2. Image processing, filtering, Fourier analysis
+3. Pyramids and wavelets
+4. Feature extraction
+5. Image matching
+6. Bag of words
+7. Optical flow
+8. Structure from motion
+9. Multi view stereo
+10.Segmentation
+11.Clustering
+12.Viola-Jones
+13.Bayesian techniques
+14.Machine learning
+15.RANSAC and robust techniques
+16.Numerical methods
+17.Optimization
+18.Range finding, active illumination
+19.Algorithms
+20.Graph cuts
+21.Dynamic programming
+22.Complexity analysis
+23.MATLAB and C++. and assembly (optional: GPU programming)
+24.Communication and presentation skills
+
+Image and features
+• NCC
+• Interest point operators
+• Scale invariant and affine invariant detectors & descriptors
+• Scale space
+• Image processing, filtering, Fourier analysis
+• Pyramids and wavelets
+• Edge detection
+• Restoration e.g. deblurring, super-resolution
+– Linear, e.g. Wiener filter
+– MRF
+– Non-local means/BM3D/bilateral filter
+
+Segmentation, grouping and tracking
+• Segmentation
+– Normalized cuts
+• Grouping
+– Hough transforms
+• Clustering
+– K-means
+– Mean-shift
+– Pedro-clustering
+• Tracking
+– Kalmanfilter
+– Particle filter
+
+Multi-view: stereo, SFM, flow
+• RANSAC and other robust techniques
+• Geometry:
+– epipolar geometry (projective and affine)
+– planar homographies
+– Affine camera
+• Geometry estimators
+– 8 point algorithm for F
+– 4 point algorithm for H
+• Factorization
+• Bundle-adjustment
+• Flow
+– Horn & Schunck L2
+– Lucas-Kanade
+– L1 regularized
+
+Recognition
+• Bag of visual words
+• HOG, SIFT, GIST
+• Spatial pyramid
+• Spatial configurations/Pictorial structures
+• Sliding window/jumping window
+• Cascades
+​
+Others
+Machine Learning
+– Adaboost
+– kNN
+– SVM
+– Random forest
+– PCA, ICA, CCA
+– EM
+– MIL/Latent-SVM
+– Regularization
+– HMM
+– Graphical & Bayesian models
+Optimization
+– Classical linear and non-linear
+– Graph operations
+– Dynamic programming/message passing for MAP, max-marginals
+– Graph cuts for binary variable MAP
+• Texture synthesis
