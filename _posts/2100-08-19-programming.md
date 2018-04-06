@@ -26,7 +26,8 @@ tag: [Programming]
 
 # Python
 
-- [Updated - 2018.03.30][Python](http://www.trilliwon.com/blog/2018-01-17/python)
+- [Python 01](http://www.trilliwon.com/blog/2018-01-17/python-01)
+- [pdb](http://www.trilliwon.com/blog/2018-04-06/pdb)
 - [numpy](http://www.trilliwon.com/blog/2018-02-05/numpy)
 
 ---
