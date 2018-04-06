@@ -5,14 +5,19 @@ date:   2100-08-19 3:00:00 +0900
 tag: [Mathematics]
 ---
 
-# Math definitions
-
 # [How to Learn Math: For Students](https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/info) (2018-01-01)
   - [Statements of Accomplishment]({{ "/assets/pdf/how-to-learn-math-statement.pdf" | absolute_url }})
   - [Stanford Lagunita](https://lagunita.stanford.edu)
 
 ## Calculus
   - [one](http://www.trilliwon.com/blog/2017-12-26/calculus1)
+  - [two](http://www.trilliwon.com/blog/2017-12-26/calculus2)
+
+---
+
+# 아래 것들 천천히 하나씩 금니빨까지 씹어먹어줄게!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+---
 
 ## Probability (확률)
 ## Linear Algebra (선형대수)
