@@ -9,6 +9,7 @@ tag: [Programming]
 # PL
 
 - [Doing] Principles of Programming Languages
+  - [Standard ML Topics](http://www.trilliwon.com/blog/2018-04-06/standard-ml-topics)
   - [Standard ML](http://www.trilliwon.com/blog/2018-03-10/sml)
 
 ---
