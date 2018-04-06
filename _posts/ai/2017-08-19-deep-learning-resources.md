@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Deep Learning Study"
-date:   2100-08-19 3:00:00 +0900
+title:  "Deep Learning Resources"
+date:   2017-08-19 3:00:00 +0900
 tag: [Deep Learning]
 ---
 
