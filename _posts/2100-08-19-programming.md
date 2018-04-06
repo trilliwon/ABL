@@ -10,7 +10,7 @@ tag: [Programming]
 
 - [Doing] Principles of Programming Languages
   - [Standard ML Topics](http://www.trilliwon.com/blog/2018-04-06/standard-ml-topics)
-  - [Standard ML](http://www.trilliwon.com/blog/2018-03-10/sml-01)
+  - [Standard ML 01](http://www.trilliwon.com/blog/2018-03-10/sml-01)
 
 - Functional Programming
   - [Functional Programming Concepts](http://www.trilliwon.com/blog/2018-03-13/functional-programming-concepts)
