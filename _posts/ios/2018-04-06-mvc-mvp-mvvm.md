@@ -12,7 +12,7 @@ tag: [MVC, MVP, MVVM]
 ![great]({{ "assets/img/mvc-mvp-mvvm.png" | absolute_url }})
 
 ---
-
+  
 ![great]({{ "assets/img/MVVM.png" | absolute_url }})
 
 ---
