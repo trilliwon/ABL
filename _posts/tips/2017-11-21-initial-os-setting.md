@@ -61,6 +61,10 @@ vim +PluginInstall +qall # command line
 - [Dropbox](https://www.dropbox.com)
  - `https://www.dropbox.com/download?os=mac`
 
+## macOS desktop pictures
+
+`cd /Library/Desktop\ Pictures/`
+
 ---
 
 # Initial Ubuntu Setting
@@ -83,3 +87,4 @@ git config --global credential.helper 'store --file ~/.git-credentials'
 ## cscope Installation
 
 - `sudo apt-get install cscope`
+
