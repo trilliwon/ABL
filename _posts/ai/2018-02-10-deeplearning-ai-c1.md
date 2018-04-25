@@ -5,21 +5,15 @@ date:   2018-02-10 16:00:00 +0900
 tag: [Deeplearning]
 ---
 
-Deep Learning
-
----
-
 # Course 1 
 # Neural Networks and Deep Learning
 
----
 
 ## Logistic Regression with a Neural Network mindset
 
 **Mathematical expression of the algorithm**:
 
 For one example \\(x^{(i)}\\):
-
 
 $$z^{(i)} = w^T x^{(i)} + b$$
 
@@ -78,6 +72,7 @@ $$\frac{\partial J}{\partial b} = \frac{1}{m} \sum_{i=1}^m (a^{(i)}-y^{(i)})$$
 **Mathematically**:
 
 For one example \\(x^{(i)}\\):
+
 $$z^{[1] (i)} =  W^{[1]} x^{(i)} + b^{[1] (i)}$$ 
 
 $$a^{[1] (i)} = \tanh(z^{[1] (i)})$$
