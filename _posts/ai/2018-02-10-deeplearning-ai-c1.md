@@ -5,6 +5,10 @@ date:   2018-02-10 16:00:00 +0900
 tag: [Deeplearning]
 ---
 
+Deep Learning
+
+---
+
 # Course 1 
 # Neural Networks and Deep Learning
 
@@ -14,15 +18,16 @@ tag: [Deeplearning]
 
 **Mathematical expression of the algorithm**:
 
-For one example $x^{(i)}$:
+For one example \\(x^{(i)}\\):
 
-$z^{(i)} = w^T x^{(i)} + b$
 
-$\hat{y}^{(i)} = a^{(i)} = sigmoid(z^{(i)})$
+$$z^{(i)} = w^T x^{(i)} + b$$
 
-$sigmoid( w^T x + b) = \frac{1}{1 + e^{-(w^T x + b)}}$
+$$\hat{y}^{(i)} = a^{(i)} = sigmoid(z^{(i)})$$
 
-$\mathcal{L}(a^{(i)}, y^{(i)}) =  - y^{(i)}  \log(a^{(i)}) - (1-y^{(i)} )  \log(1-a^{(i)})$
+$$sigmoid( w^T x + b) = \frac{1}{1 + e^{-(w^T x + b)}}$$
+
+$$\mathcal{L}(a^{(i)}, y^{(i)}) =  - y^{(i)}  \log(a^{(i)}) - (1-y^{(i)} )  \log(1-a^{(i)})$$
 
 The cost is then computed by summing over all training examples:
 
@@ -42,9 +47,9 @@ In this exercise, you will carry out the following steps:
 
 Forward Propagation:
 
-- You get $X$
-- You compute $A = \sigma(w^T X + b) = (a^{(1)}, a^{(2)}, ..., a^{(m-1)}, a^{(m)})$
-- You calculate the cost function: $J = -\frac{1}{m}\sum_{i=1}^{m}y^{(i)}\log(a^{(i)})+(1-y^{(i)})\log(1-a^{(i)})$
+- You get \\(X\\)
+- You compute \\(A = \sigma(w^T X + b) = (a^{(1)}, a^{(2)}, ..., a^{(m-1)}, a^{(m)})\\)
+- You calculate the cost function: \\(J = -\frac{1}{m}\sum_{i=1}^{m}y^{(i)}\log(a^{(i)})+(1-y^{(i)})\log(1-a^{(i)})\\)
 
 Here are the two formulas you will be using: 
 
@@ -72,7 +77,7 @@ $$\frac{\partial J}{\partial b} = \frac{1}{m} \sum_{i=1}^m (a^{(i)}-y^{(i)})$$
 
 **Mathematically**:
 
-For one example $x^{(i)}$:
+For one example \\(x^{(i)}\\):
 $$z^{[1] (i)} =  W^{[1]} x^{(i)} + b^{[1] (i)}$$ 
 
 $$a^{[1] (i)} = \tanh(z^{[1] (i)})$$
@@ -115,7 +120,7 @@ $$W = \begin{bmatrix}
     u
 \end{bmatrix}$$
 
-Then $WX + b$ will be:
+Then \\(WX + b\\) will be:
 
 $$WX + b = \begin{bmatrix}
     (ja + kd + lg) + s  & (jb + ke + lh) + s  & (jc + kf + li)+ s\\
@@ -130,9 +135,9 @@ $$WX + b = \begin{bmatrix}
 
 $$Z^{[l]} = W^{[l]}A^{[l-1]} +b^{[l]}$$
 
-- **Sigmoid**: $\sigma(Z) = \sigma(W A + b) = \frac{1}{ 1 + e^{-(W A + b)}}$.
+- **Sigmoid**: \\(\sigma(Z) = \sigma(W A + b) = \frac{1}{ 1 + e^{-(W A + b)}}\\).
 
--  **ReLU**: The mathematical formula for ReLu is $A = RELU(Z) = max(0, Z)$
+-  **ReLU**: The mathematical formula for ReLu is \\(A = RELU(Z) = max(0, Z)\\)
 
 **2_ Cost function**
 
@@ -142,13 +147,13 @@ $$-\frac{1}{m} \sum_{i = 1}^{m} (y^{(i)}\log\left(a^{[L] (i)}\right) + (1-y^{(i)
 
 /images/backprop.png
 
-The three outputs $(dW^{[l]}, db^{[l]}, dA^{[l]})$ are computed using the input $dZ^{[l]}$.Here are the formulas you need:
+The three outputs \\((dW^{[l]}, db^{[l]}, dA^{[l]})\\) are computed using the input \\(dZ^{[l]}\\).Here are the formulas you need:
 
 $$dW^{[l]} = \frac{\partial \mathcal{L} }{\partial W^{[l]}} = \frac{1}{m} dZ^{[l]} A^{[l-1] T}$$
 $$db^{[l]} = \frac{\partial \mathcal{L} }{\partial b^{[l]}} = \frac{1}{m} \sum_{i = 1}^{m} dZ^{[l](i)}$$
 $$dA^{[l-1]} = \frac{\partial \mathcal{L} }{\partial A^{[l-1]}} = W^{[l] T} dZ^{[l]}$$
 
-If $g(.)$ is the activation function, 
+If \\(g(.)\\) is the activation function, 
 `sigmoid_backward` and `relu_backward` compute $$dZ^{[l]} = dA^{[l]} * g'(Z^{[l]})$$.
 
 
@@ -159,4 +164,4 @@ using gradient descent:
 $$W^{[l]} = W^{[l]} - \alpha \text{ } dW^{[l]}$$
 $$b^{[l]} = b^{[l]} - \alpha \text{ } db^{[l]}$$
 
-where $\alpha$ is the learning rate.
+where \\(\alpha\\) is the learning rate.
