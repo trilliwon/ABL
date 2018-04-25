@@ -140,4 +140,7 @@ and `<br>` for line breaks.
 
 <br>
 
+$$a^2 + b^2 = c^2$$
+
 _The end_
+
