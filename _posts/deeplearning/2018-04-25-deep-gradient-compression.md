@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DEEP GRADIENT COMPRESSION: REDUCING THE COMMUNICATION BANDWIDTH FOR DISTRIBUTED TRAINING"
+title:  "DEEP GRADIENT COMPRESSION"
 date:   2018-04-25 11:00:00 +0900
 tag: [Deeplearning]
 ---
@@ -20,7 +20,7 @@ However, gradient exchange is costly and dwarfs the savings of computation time 
 
 Therefore, the network bandwidth becomes a significant bottleneck for scaling up **distributed training**.
 
-This bandwidth problem gets even worse when distributed training is performed on mobile devices, such as federated learning (McMahan et al., 2016; Konecˇny` et al., 2016).
+This bandwidth problem gets even worse when distributed training is performed on mobile devices, such as federated learning (McMahan et al., 2016; Koneckkuuuˇny` et al., 2016).
 
 Training on mobile devices is appealing due to better privacy and better personalization (Google, 2017), but a critical problem is that those mobile devices suffer from even lower network bandwidth, intermittent network connections, and expensive mobile data plan.
 
