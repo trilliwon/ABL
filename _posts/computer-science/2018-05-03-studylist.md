@@ -9,6 +9,7 @@ tag: [study]
 
 ## Khanacademy Resources
 
+- [ ] [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 - [ ] [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [ ] [How Computers Work](https://www.khanacademy.org/computing/computer-science/how-computers-work2)
 - [x] [internet-intro](https://www.khanacademy.org/computing/computer-science/internet-intro)
