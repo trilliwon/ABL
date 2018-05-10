@@ -38,24 +38,23 @@ tags: [Internet]
 
 ## IP address and DNS
 
-ISP (Internet service provider)
-Wifi - ISP - Connect all
+- ISP (Internet service provider)
+- Wifi - ISP - Connect all
 
 ## Protocol
-All the different devices on the Internet have unique address just a number
+- All the different devices on the Internet have unique address just a number
 
 ## IP (Internet Protocol)
 
-174.129.14.120
-1010110 10000001 00001110 01111000
-country/network.region/network/subnetwork.device
+- 174.129.14.120
+- 1010110 10000001 00001110 01111000
+- country/network.region/network/subnetwork.device
 
-IPv4
-IPv6
+- IPv4
+- IPv6
 
-DNS(Domain Name System)
-
-DNS Spoofing
+- DNS(Domain Name System)
+- DNS Spoofing
 
 ---
 
@@ -74,37 +73,37 @@ DNS Spoofing
 ## Fault Tolerant, Reliability
 
 ## TCP (Transmission Control Protocol)
-- TCP+Router system scalable
 
-Connect, Communicate, Collaborate
+- TCP+Router system scalable
+- Connect, Communicate, Collaborate
 
 ---
 
 ## HTTP and HTML
 
-Web Browser - url (uniform resource, locator) - server - http - 
+- Web Browser - url (uniform resource, locator) - server - http - 
 
-HTTP (HyperText Transfer Protocol)
+- HTTP (HyperText Transfer Protocol)
 
 ---
 
-GET /login -> HTML CODE
-HTML (HyperText Markup Language)
+- GET /login -> HTML CODE
+- HTML (HyperText Markup Language)
 
-Browser request several http GET request
+- Browser request several http GET request
 
-POST 
+- POST 
 
-COOKIES - Web Browser, remember who I am 
+- COOKIES - Web Browser, remember who I am 
 
-Safe websites prevent snooping and tampering
+- Safe websites prevent snooping and tampering
 
-SSL : Secure Sockets Layer
-TLS : Transport Layer Security
+- SSL : Secure Sockets Layer
+- TLS : Transport Layer Security
 
-HTTPS : HTTP Secure
+- HTTPS : HTTP Secure
 
-Certificate Authorities
+- Certificate Authorities
 
 ---
 
@@ -132,7 +131,7 @@ Certificate Authorities
 - PHISHING
 
 ## Protocol A standard procedure for defining and regulating communicatin
-	- TCP (Connection based protocol) three way hand sake
-	- UDP (Connectionless protocol)
+- TCP (Connection based protocol) three way hand sake
+- UDP (Connectionless protocol)
 
 
