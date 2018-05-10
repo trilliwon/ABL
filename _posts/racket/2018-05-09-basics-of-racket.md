@@ -42,7 +42,7 @@ tag: [Racket]
 
 ## Identifiers
 
-- **( ) [ ] { } " , ' ` ; # | \**
+- **( ) [ ] { } " , ' ` ; # | \\**
 - Racket’s syntax for identifiers is especially liberal. Excluding the special characters
 
 ---
