@@ -27,6 +27,7 @@ tags: [Internet]
 - bitrate = 8 Mbps
 
 ## Send
+
 | | Pro | Con | 
 |:--|:--|:--|
 | Electric | cheap | Signal loss |
