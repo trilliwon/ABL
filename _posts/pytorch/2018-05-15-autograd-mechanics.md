@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Autograd Mechanics
+title:  "Autograd Mechanics"
 date:   2018-05-15 15:00:00 +0900
 tags: [Pytorch]
 ---
