@@ -7,6 +7,6 @@ tags: [Pytorch, Deep Learning]
 
 
 
-<iframe src="https://medium.com/@trilliwon">
- <p>Your browser does not support iframes.</p>
+<iframe src="https://medium.com/@trilliwon"  width="100%" height="200px">
+ <p>@trilliwon's medium articles</p>
  </iframe>
