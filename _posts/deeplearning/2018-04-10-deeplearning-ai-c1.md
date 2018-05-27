@@ -2,7 +2,7 @@
 layout: post
 title:  "Deeplearing.ai - Course 1: Neural Networks and Deep Learning"
 date:   2018-02-10 16:00:00 +0900
-tag: [Deeplearning]
+tag: [Deep Learning]
 ---
 
 # Course 1 

@@ -2,7 +2,7 @@
 layout: post
 title:  "DEEP GRADIENT COMPRESSION"
 date:   2018-04-25 11:00:00 +0900
-tag: [Deeplearning]
+tag: [Deep Learning]
 ---
 
 ## [DEEP GRADIENT COMPRESSION: REDUCING THE COMMUNICATION BANDWIDTH FOR DISTRIBUTED TRAINING](https://arxiv.org/pdf/1712.01887.pdf) 을 분석하고 구현하기 위해 작성함.
