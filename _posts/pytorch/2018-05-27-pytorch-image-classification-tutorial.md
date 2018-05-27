@@ -7,6 +7,6 @@ tags: [Pytorch, Deep Learning]
 
 
 
-<iframe src="https://medium.com/@trilliwon"  width="100%" height="200px">
+<iframe src="https://medium.com/@trilliwon"  width="100%" height="1000px">
  <p>@trilliwon's medium articles</p>
  </iframe>
