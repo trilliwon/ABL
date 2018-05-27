@@ -2,7 +2,7 @@
 layout: post
 title:  "Basics of Racket Programming"
 date:   2018-05-09 16:00:00 +0900
-tag: [Racket]
+tag: [Programming, Racket]
 ---
 
 ## Basics of Racket

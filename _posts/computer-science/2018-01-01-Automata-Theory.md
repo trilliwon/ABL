@@ -2,7 +2,7 @@
 layout: post
 title:  "Automata Theory"
 date:   2018-01-01 01:00:00 +0900
-tag: [Automata Theory]
+tag: [Computer Science]
 description: Automata Theory Study
 ---
 

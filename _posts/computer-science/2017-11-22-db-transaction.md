@@ -2,7 +2,7 @@
 layout: post
 title:  "DB Transaction"
 date:   2017-11-22 13:00:00 +0900
-tag: DB
+tag: [Computer Science, DB]
 ---
 
 # Transaction

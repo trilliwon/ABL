@@ -2,7 +2,7 @@
 layout: post
 title:  "How the internet works"
 date:   2018-05-10 15:00:00 +0900
-tags: [Internet]
+tags: [Computer Science, Network]
 ---
 
 

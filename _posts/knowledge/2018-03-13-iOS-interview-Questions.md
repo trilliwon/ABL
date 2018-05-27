@@ -2,7 +2,7 @@
 layout: post
 title:  "iOS Interview Questions"
 date:   2018-03-13 10:00:00 +0900
-tag: [interview]
+tag: [Study, Interview]
 ---
 
 # iOS Interview Questions

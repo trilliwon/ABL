@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Learn Math: For Students"
 date:   2018-01-01 20:00:00 +0900
-tag: [math]
+tag: [Mathematics]
 ---
 
 ### List

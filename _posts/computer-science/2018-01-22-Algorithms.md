@@ -2,7 +2,7 @@
 layout: post
 title:  "Algorithms"
 date:   2018-01-22 16:00:00 +0900
-tag: [Algorithms]
+tag: [Computer Science, Algorithms]
 ---
 
 # Data Structure

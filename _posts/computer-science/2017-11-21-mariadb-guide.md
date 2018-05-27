@@ -2,7 +2,7 @@
 layout: post
 title:  "Mariadb Guide"
 date:   2017-11-21 20:00:00 +0900
-tag: [mariaDB]
+tag: [Computer Science, DB, MariaDB]
 ---
 
 ## [Installation](https://downloads.mariadb.org/mariadb/repositories/#mirror=kaist&distro=Ubuntu&distro_release=xenial--ubuntu_xenial&version=10.2)

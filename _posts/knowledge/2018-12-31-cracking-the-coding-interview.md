@@ -2,8 +2,7 @@
 layout: post
 title:  "CODING INTERVIEW STUDY PLAN"
 date:   2018-01-22 03:00:00 +0900
-tag: [Doing List]
-description: This is to prepare a coding interview and finally to be a well prepared software engineer.
+tag: [Study, Interview]
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Study List"
 date:   2018-05-03 20:00:00 +0900
-tag: [study]
+tag: [Computer Science, study]
 ---
 
 # Basics

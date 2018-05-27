@@ -2,7 +2,7 @@
 layout: post
 title:  "import pdb : the python debugger"
 date:   2018-04-06 15:00:00 +0900
-tags: [pdb]
+tags: [Programming, Python]
 ---
 
 # pdb

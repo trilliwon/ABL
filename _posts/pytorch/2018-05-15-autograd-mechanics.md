@@ -2,7 +2,7 @@
 layout: post
 title:  "PyTorch: Autograd Mechanics"
 date:   2018-05-15 15:00:00 +0900
-tags: [Pytorch]
+tags: [Deep Learning, Pytorch]
 ---
 
 ## [Autograd mechanics](http://pytorch.org/docs/stable/notes/autograd.html)

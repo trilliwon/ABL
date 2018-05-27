@@ -2,7 +2,7 @@
 layout: post
 title:  "Functional Programming Concepts"
 date:   2018-03-14 01:00:00 +0900
-tag: [Functional Programming]
+tag: [Programming]
 ---
 
 # First class functions

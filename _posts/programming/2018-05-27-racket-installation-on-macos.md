@@ -2,7 +2,7 @@
 layout: post
 title:  "Install Racket on macOS using Homebrew"
 date:   2018-05-27 16:00:00 +0900
-tag: [Racket]
+tag: [Programming]
 ---
 
 

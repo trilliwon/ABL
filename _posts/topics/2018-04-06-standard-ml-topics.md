@@ -2,7 +2,7 @@
 layout: post
 title:  "Standard ML"
 date:   2018-04-06 22:00:00 +0900
-tag: [sml]
+tag: [Topics]
 ---
 
 # Standard ML Topics
