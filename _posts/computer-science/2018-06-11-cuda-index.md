@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "CUDA Thread Indexing Cheatsheet"
-date:   2018-06-11 21:10:00 +0900
-tag: [Computer Science, CUDA]
+title: CUDA Thread Indexing Cheatsheet
+date: '2018-06-11 21:10:00 +0900'
+tag:
+  - Computer Science
+  - CUDA
+published: true
 ---
 
 ## CUDA Thread Indexing Cheatsheet
@@ -26,7 +29,7 @@ int getGlobalIdx_1D_1D() {
 __device__
 int getGlobalIdx_1D_2D() {
 	return blockIdx.x * blockDim.x * blockDim.y 
-					+ threadIdx.y * blockDim.x + threadIdx.x;
+    			+ threadIdx.y * blockDim.x + threadIdx.x;
 }
 
 ```
@@ -35,9 +38,10 @@ int getGlobalIdx_1D_2D() {
 
 ```
 __device__
-int getGlobalIdx_1D_3D() { 	return blockIdx.x * blockDim.x * blockDim.y * blockDim.z
-					+ threadIdx.z * blockDim.y * blockDim.x
-					+ threadIdx.y * blockDim.x + threadIdx.x;
+int getGlobalIdx_1D_3D() {
+	return blockIdx.x * blockDim.x * blockDim.y * blockDim.z 
+    		+ threadIdx.z * blockDim.y * blockDim.x
+			+ threadIdx.y * blockDim.x + threadIdx.x;
 }
 ```
 
@@ -45,7 +49,8 @@ int getGlobalIdx_1D_3D() { 	return blockIdx.x * blockDim.x * blockDim.y * bloc
 
 ```
 __device__ int getGlobalIdx_2D_1D() {
-	int blockId = blockIdx.y * gridDim.x + blockIdx.x; int threadId = blockId * blockDim.x + threadIdx.x;
+	int blockId = blockIdx.y * gridDim.x + blockIdx.x;
+    int threadId = blockId * blockDim.x + threadIdx.x;
 	return threadId;
 }
 ```
@@ -68,10 +73,12 @@ int getGlobalIdx_2D_2D() {
 __device__
 int getGlobalIdx_2D_3D() {
 	int blockId = blockIdx.x + blockIdx.y * gridDim.x;
-	int threadId = blockId * (blockDim.x * blockDim.y * blockDim.z) 									+ (threadIdx.z * (blockDim.x * blockDim.y))
-									+ (threadIdx.y * blockDim.x)
-									+ threadIdx.x;
-	return threadId; }
+	int threadId = blockId * (blockDim.x * blockDim.y * blockDim.z) 
+    				+ (threadIdx.z * (blockDim.x * blockDim.y))
+                    + (threadIdx.y * blockDim.x)
+                    + threadIdx.x;
+	return threadId;
+}
 ```
 
 ### 3D grid of 1D blocks
@@ -80,7 +87,7 @@ int getGlobalIdx_2D_3D() {
 __device__
 int getGlobalIdx_3D_1D() {
 	int blockId = blockIdx.x + blockIdx.y * gridDim.x
-								+ gridDim.x * gridDim.y * blockIdx.z;
+    				+ gridDim.x * gridDim.y * blockIdx.z;
 	int threadId = blockId * blockDim.x + threadIdx.x; 
 	return threadId;
 }
@@ -103,9 +110,10 @@ int getGlobalIdx_3D_2D() {
 __device__
 int getGlobalIdx_3D_3D() {
 	int blockId = blockIdx.x + blockIdx.y * gridDim.x
-								+ gridDim.x * gridDim.y * blockIdx.z;
-	int threadId = blockId * (blockDim.x * blockDim.y * blockDim.z) 									+ (threadIdx.z * (blockDim.x * blockDim.y))
-									+ (threadIdx.y * blockDim.x) + threadIdx.x;
+    				+ gridDim.x * gridDim.y * blockIdx.z;
+	int threadId = blockId * (blockDim.x * blockDim.y * blockDim.z)
+    				+ (threadIdx.z * (blockDim.x * blockDim.y))
+				    + (threadIdx.y * blockDim.x) + threadIdx.x;
 	return threadId;
 }
 ```
