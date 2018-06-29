@@ -18,10 +18,8 @@ published: true
 - [CUDA Runtime API](https://docs.nvidia.com/cuda/pdf/CUDA_Runtime_API.pdf)
 - [CUDA C Best Practices Guide](https://docs.nvidia.com/cuda/pdf/CUDA_C_Best_Practices_Guide.pdf)
 
-- https://www.youtube.com/watch?v=F620ommtjqk&list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_
-- https://github.com/1adrianb/bnn.torch/blob/master/BinarySpatialConvolution.cu
-- https://devblogs.nvidia.com/efficient-matrix-transpose-cuda-cc/
-- https://github.com/debowin/cuda-tiled-matrix-multiplication/blob/master/matrixmul_kernel.cu
+- [Intro to the Class - Intro to Parallel Programming](https://www.youtube.com/watch?v=F620ommtjqk&list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)
+- [efficient-matrix-transpose-cuda-cc](https://devblogs.nvidia.com/efficient-matrix-transpose-cuda-cc/)
 
 
 ---
