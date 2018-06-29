@@ -38,7 +38,6 @@ published: true
 - Start GPU kernel (function that executed on GPU)
 - Copy output from GPU to host
 
-/Cuda.png
 
 ---
 
