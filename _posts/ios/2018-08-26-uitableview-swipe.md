@@ -55,4 +55,40 @@ let share = UIContextualAction(style: .normal, title: "Share") { action, view, c
 - `var image: UIImage?`
 - `var handler: UIContextualAction.Handler`
 
+# Implementation
+
+```
+
+override func tableView(_ tableView: UITableView, trailingSwipeActionsConfigurationForRowAt indexPath: IndexPath) -> UISwipeActionsConfiguration? {
+
+    let share = UIContextualAction(style: .normal, title: "Share") { action, view, completion in
+        completion(true)
+    }
+
+    let delete = UIContextualAction(style: .destructive, title: "Delete") { [weak self] action, view, completion in
+        self?.langs.remove(at: indexPath.row)
+        tableView.deleteRows(at: [indexPath], with: UITableViewRowAnimation.automatic)
+        completion(true)
+    }
+
+    delete.image = #imageLiteral(resourceName: "trash")
+
+    return UISwipeActionsConfiguration(actions: [delete, share])
+}
+
+override func tableView(_ tableView: UITableView, leadingSwipeActionsConfigurationForRowAt indexPath: IndexPath) -> UISwipeActionsConfiguration? {
+    let like = UIContextualAction(style: .normal, title: "Like") { [weak self] action, view, completion in
+        guard let `self` = self else {
+            return
+        }
+        self.langs[indexPath.row].liked = !self.langs[indexPath.row].liked
+        completion(true)
+    }
+
+    like.image = langs[indexPath.row].liked ? #imageLiteral(resourceName: "filledLike") : #imageLiteral(resourceName: "like")
+    like.backgroundColor = UIColor.darkGray
+
+    return UISwipeActionsConfiguration(actions: [like])
+}
+```
 
