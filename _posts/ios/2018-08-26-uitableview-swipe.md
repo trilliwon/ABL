@@ -57,7 +57,8 @@ let share = UIContextualAction(style: .normal, title: "Share") { action, view, c
 
 # Implementation
 
-```
+
+```Swift
 
 override func tableView(_ tableView: UITableView, trailingSwipeActionsConfigurationForRowAt indexPath: IndexPath) -> UISwipeActionsConfiguration? {
 
