@@ -7,7 +7,7 @@ tags: [Programming, Python]
 
 ## Check if all elements in list are identicial
 
-```
+```python
 
 values = [1, 1, 1, 1, 1, 1]
 # set(values) -> {1}
@@ -17,7 +17,7 @@ len(set(values)) == 1
 
 ## Reduce
 
-```
+```python
 
 >>> from functools import reduce
 >>> f = lambda a,b: a if (a > b) else b
@@ -28,7 +28,7 @@ len(set(values)) == 1
 
 ## Lambda
 
-```
+```python
 
 >>> sum = lambda x, y : x + y
 >>> sum(3,4)
