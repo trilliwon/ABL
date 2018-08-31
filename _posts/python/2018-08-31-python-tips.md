@@ -53,7 +53,7 @@ len(set(values)) == 1
 
 ## Filter
 
-```Python
+{% highlight python %}
 
 >>> fibonacci = [0,1,1,2,3,5,8,13,21,34,55]
 >>> odd_numbers = list(filter(lambda x: x % 2, fibonacci))
@@ -62,4 +62,4 @@ len(set(values)) == 1
 >>> odd_numbers = list(filter(f, fibonacci))
 [1, 1, 3, 5, 13, 21, 55]
 
-```
+{% endhighlight %}
