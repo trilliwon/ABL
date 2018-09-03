@@ -63,3 +63,30 @@ len(set(values)) == 1
 [1, 1, 3, 5, 13, 21, 55]
 
 {% endhighlight %}
+
+## lower upper case
+
+```python
+
+>>> a = 'abC'
+>>> a.lower()
+'abc'
+>>> a.upper()
+'ABC'
+
+```
+
+## combind two dictionaries
+
+```python
+>>> a = {'a':1, 'b':1}
+>>> b = {'c':2, 'd':2}
+>>> {**a, **b} # only for string key
+{'a': 1, 'b': 1, 'c': 2, 'd': 2}
+
+>>> dict(a, **b) # only for string key
+{'a': 1, 'b': 1, 'c': 2, 'd': 2}
+
+>>> dict(a.items() | b.items())
+{'c': 2, 'b': 1, 'a': 1, 'd': 2}
+```
