@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "MVC, MVP and MVVM"
-date:   2018-04-06 3:00:00 +0900
+title: "MVC, MVP and MVVM"
+date: 2018-04-06 03:00:00 +0900
 tag: [iOS]
 ---
 

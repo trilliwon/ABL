@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "UITableView Leading, Trailing Swipe Action"
-date:   2018-08-26 16:00:00 +0900
+title: "UITableView Leading, Trailing Swipe Action"
+date: 2018-08-26 16:00:00 +0900
 tag: [iOS]
 ---
 
