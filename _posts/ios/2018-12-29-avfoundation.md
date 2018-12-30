@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "AVFoundation, Still and Video Media Capture"
-date:   2018-12-30 03:50:00 +0900
+title: "AVFoundation, Still and Video Media Capture"
+date: 2018-12-30 03:50:00 +0900
 tag: [Swift]
 ---
 

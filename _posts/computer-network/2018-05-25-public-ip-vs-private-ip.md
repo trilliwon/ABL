@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Public IP vs Private IP (공인(외부), 내부)"
-date:   2018-05-25 16:00:00 +0900
+title: "Public IP vs Private IP (공인(외부), 내부)"
+date: 2018-05-25 16:00:00 +0900
 tag: [Computer Science, Network]
 ---
 

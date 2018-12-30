@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "App life cycle"
-date:   2018-12-40 03:25:00 +0900
+title: "App life cycle"
+date: 2018-12-40 03:25:00 +0900
 tag: [Swift]
 ---
 
