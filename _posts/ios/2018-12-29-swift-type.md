@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is type in Swift?"
-date: 2018-12-30 3:12:00 +0900
+date: 2018-12-30 11:30:00 +0800
 tag: [Swift]
 ---
 

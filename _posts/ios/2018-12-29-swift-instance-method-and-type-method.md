@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Instance Method vs Type method"
-date: 2018-12-30 3:01:00 +0900
+date: 2018-12-30 11:30:00 +0800
 tag: [Swift]
 ---
 

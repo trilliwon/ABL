@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Swift Delegate Pattern"
-date: 2018-12-30 3:20:00 +0900
+date: 2018-12-30 11:30:00 +0800
 tag: [Swift]
 ---
 
