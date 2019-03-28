@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Won 👨🏻‍💻
 paginate:       42
-baseurl:        "/blog"
+baseurl:        "/ABL"
 url:            "https://trilliwon.github.io"
 
 
@@ -45,7 +45,7 @@ github_username:  trilliwon
 # Custom vars
 version:        1.0.0
 github:
-  repo:         https://github.com/trilliwon/blog
+  repo:         https://github.com/trilliwon/ABL
 
 # Gems
 gems:
