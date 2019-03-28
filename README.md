@@ -1,3 +1,3 @@
-# BLOG OF MINE
+# TODAY I LEARNED
 
-[http://www.trilliwon.com](http://www.trilliwon.com)
+[https://trilliwon.github.io/blog](https://trilliwon.github.io/blog)
