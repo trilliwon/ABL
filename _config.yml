@@ -2,7 +2,7 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Won 👨🏻‍💻
+title:          Always Be Learning 👨🏻‍💻
 paginate:       42
 baseurl:        "/ABL"
 url:            "https://trilliwon.github.io"
