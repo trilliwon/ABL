@@ -65,6 +65,20 @@ vim +PluginInstall +qall # command line
 
 `cd /Library/Desktop\ Pictures/`
 
+
+## Vagrant
+
+Create and configure lightweight, reproducible, and portable development environments. [Vagrant](https://www.vagrantup.com) is an amazing tool for managing virtual machines via a simple to use command line interface.
+
+
+```
+brew cask install virtualbox
+brew cask install vagrant
+```
+
+
+- [resources](https://sourabhbajaj.com/mac-setup/)
+
 ---
 
 # Initial Ubuntu Setting
