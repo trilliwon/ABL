@@ -76,6 +76,11 @@ brew cask install virtualbox
 brew cask install vagrant
 ```
 
+## `ack`
+
+- [why-ack](https://beyondgrep.com/why-ack/)
+
+---
 
 - [resources](https://sourabhbajaj.com/mac-setup/)
 
