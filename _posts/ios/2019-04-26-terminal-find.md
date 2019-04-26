@@ -52,7 +52,23 @@ The most useful parameter is `-name`
 
 ---
 
-# grep
+# grep - file pattern seacher
+
+> The grep utility searches any given input files, selecting lines that match one or more patterns.  By default, a pattern matches an input line if the regular expression (RE) in the pattern matches the input line without its trailing newline. An empty expression matches every line. Each input line that matches at least one of the patterns is written to the standard output.
+
+## Examples
+
+- To find all occurrences of the word `patricia' in a file:
+    - `grep 'patricia' myfile`
+- To find all occurrences of the pattern `.Pp' at the beginning of a line:
+    - `grep '^\.Pp' myfile`
+- To find all lines in a file which do not contain the words `foo` or `bar`:
+    - `grep -v -e 'foo' -e 'bar' myfile`
+    - `-v` = `--invert-match`
+
+- `egrep '19|20|25' calendar`
+
+
 
 > References
 
