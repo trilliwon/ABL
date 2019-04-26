@@ -58,6 +58,20 @@ The most useful parameter is `-name`
 
 ## Examples
 
+```shell
+grep 'word' filename
+grep 'word' file1 file2 file3
+grep 'string1 string2'  filename
+cat otherfile | grep 'something'
+command | grep 'something'
+command option1 | grep 'data'
+grep --color 'data' fileName
+```
+
+- To search case-insensertive way
+    - `grep -i 'word' hello.md
+- To search all files in the directory recursively
+    - `grep -R "word" .`
 - To find all occurrences of the word `patricia' in a file:
     - `grep 'patricia' myfile`
 - To find all occurrences of the pattern `.Pp' at the beginning of a line:
@@ -65,6 +79,22 @@ The most useful parameter is `-name`
 - To find all lines in a file which do not contain the words `foo` or `bar`:
     - `grep -v -e 'foo' -e 'bar' myfile`
     - `-v` = `--invert-match`
+- To count of word:
+    - `grep -c 'word' /path/to/file`
+- To search 2 different words
+    - `egrep -w 'word1|word2' /path/to/file`
+- To search line of the word
+
+```shell
+$ grep -n "left" index.html 
+28:    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="left arrow">&#8592;</a>
+```
+- To list files that contains the word:
+
+```shell
+$ grep -l "filter" _posts/computer-vision/*.md
+_posts/computer-vision/2017-12-06-computer-vision.md
+```
 
 - `egrep '19|20|25' calendar`
 
