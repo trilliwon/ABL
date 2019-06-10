@@ -17,6 +17,9 @@ que.put(2)
 
 que.get() # 1
 que.get() # 2
+
+que.empty()
+
 ```
 
 ## Stack
