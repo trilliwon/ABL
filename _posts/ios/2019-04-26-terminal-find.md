@@ -10,6 +10,10 @@ tag: [Shell]
 > find -- walk a file hierarchy
 > The *find* utility recursively descends the directory tree each path listed, evaluating an expression in terms of each file in the treee.
 
+- `find /Users -name "test.txt"`
+- `locate NAME`
+- `sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist`
+- `mdfind NAME`
 
 ## Examples
 
