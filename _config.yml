@@ -5,7 +5,7 @@ permalink:      /:year-:month-:day/:title
 title:          Always Be Learning 👨🏻‍💻
 paginate:       42
 baseurl:        "/ABL"
-url:            "https://trilliwon.github.io"
+url:            "https://www.trilliwon.com/ABL/"
 
 
 # Google Analytics
@@ -50,3 +50,4 @@ github:
 # Gems
 gems:
   - jekyll-paginate
+  - jekyll-sitemap
