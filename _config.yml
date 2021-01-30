@@ -4,8 +4,8 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Always Be Learning 👨🏻‍💻
 paginate:       42
-baseurl:        "/ABL"
-url:            "https://www.trilliwon.com/ABL/"
+baseurl:        "/"
+url:            "https://www.trilliwon.com/"
 
 
 # Google Analytics
@@ -45,7 +45,7 @@ github_username:  trilliwon
 # Custom vars
 version:        1.0.0
 github:
-  repo:         https://github.com/trilliwon/ABL
+  repo:         https://github.com/trilliwon.github.io
 
 # Gems
 gems:
